@@ -1,0 +1,35 @@
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="UCL Combinatorics Seminar webpage"
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="" />
+<link rel="icon" sizes="96x96" href="/assets/images/icon.svg" />
+<link rel="icon" sizes="32x32" href="/assets/images/icon.svg" />
+<link rel="icon" sizes="16x16" href="/assets/images/icon.svg" />
+
+<!-- Social sharing info -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:site_name" content="UCL Combinatorics seminar webpage">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<!-- If blog post designates header image, use it. Otherwise, use site logo. -->
+<meta property="og:image" content="{% if page.image %}{{ site.url }}/assets/images/{{ page.image }}{% else %}{% endif %}">
+<meta property="og:description" content="UCL Combinatorics Seminar">
+<meta property="fb:app_id" content=""/>
+
+<title>{{ page.title }} | UCL Combinatorics Seminar</title>
+
+<!-- FONTS AND STYLESHEETS -->
+<link rel="stylesheet" href="https://use.typekit.net/fol4uvq.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+<link rel="stylesheet" href="/assets/css/styles.css">
+
+<!-- STOPS TRANSITIONS FROM FIRING ON PAGE LOAD -->
+<script>
+  $(document).ready(function() {
+    $("body").removeClass("preload");
+  });
+</script>

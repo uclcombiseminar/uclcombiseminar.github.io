@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blog
+---
+<h1>Schedule and Abstracts</h1>
+
+<ul class="post-list">
+  {% for post in site.posts reversed %}
+    {% if post.tags contains 'draft' %}
+    <!-- Don't show drafts -->
+    {% else %}
+    <li>
+      <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
+      <h2>{{ post.subtitle }}</h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>

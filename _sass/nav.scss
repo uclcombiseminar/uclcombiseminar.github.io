@@ -1,0 +1,160 @@
+nav {
+  box-sizing: border-box;
+  max-width: $nav-width;
+  height: 5rem;
+  margin: auto;
+  margin-bottom: 3rem;
+  padding: 0 1.5rem;
+  padding-top: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  #mobile-nav {
+    display: none;
+  }
+
+  .info {
+    font-family: $heading-font;
+    display: flex;
+
+    img {
+      height: 2.75rem;
+      margin: 1rem;
+    }
+
+    .title {
+      order: 2;
+
+      h1 {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 1.5rem;
+
+        a {
+          color: $main-accent;
+
+          &:hover {
+            color: $main-accent;
+          }
+        }
+      }
+
+      p {
+        font-size: 1rem;
+      }
+    }
+  }
+
+  .main-links {
+
+    a {
+      color: #555;
+      text-transform: uppercase;
+      margin-left: 0.5rem;
+      font-family: $heading-font;
+      font-size: 1.1rem;
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:hover {
+        color: $main-accent;
+      }
+
+      &.current {
+        color: $main-accent;
+      }
+    }
+
+    .closebtn {
+      display: none;
+    }
+  }
+}
+
+//Mobile nav
+@media only screen and (max-width: $mobile) {
+  nav {
+    max-width: 100%;
+    padding: 0;
+    padding-top: 4rem;
+
+    #mobile-nav {
+      display: inline-block;
+      position: absolute;
+      right: 0;
+      color: $main-accent;
+      font-size: 1.75rem;
+      padding-right: 1.5rem;
+      cursor: pointer;
+    }
+
+    .info {
+
+      img {
+        height: 2.25rem;
+        margin: 1rem 0.5rem 0 1rem;
+      }
+
+      .title {
+
+        h1 {
+          font-size: 1.25rem;
+        }
+
+        p {
+          font-size: 0.9rem;
+        }
+      }
+    }
+
+    .main-links {
+      background-color: $main-accent;
+      width: 0;
+      height: 100%;
+      position: fixed;
+      z-index: 999;
+      top: 0;
+      right: -1rem;
+      overflow-x: hidden;
+      padding: 2.5rem 0 0 1rem;
+      transition: 0.5s;
+      text-align: left;
+
+      a {
+        margin: 0 1rem;
+        font-size: 1.25rem;
+        line-height: 1.66;
+        color: white;
+        display: block;
+
+        &.current {
+          color: white;
+          font-weight: 900;
+        }
+
+        &:hover {
+          color: black;
+        }
+      }
+
+      &.show {
+        width: 250px;
+      }
+
+      .closebtn {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 1rem;
+        font-size: 2rem;
+
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}

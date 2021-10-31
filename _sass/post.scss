@@ -1,0 +1,50 @@
+.post {
+  padding-bottom: 3rem;
+
+  h1 {
+    padding-bottom: 0rem;
+  }
+
+  h2 {
+    padding-top: 0rem;
+    margin-top: -1.5rem;
+  }
+
+  h3 {
+    padding-bottom: 2rem;
+  }
+
+  p {
+    padding-bottom: 1rem;
+  }
+
+  button {
+    margin: 0.5rem 0 1rem 0;
+    background: $main-accent;
+    border: 0;
+    color: white;
+    font-family: $heading-font;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: calc(#{$base-font-size} - 1pt);
+    transition: .25s ease-in-out;
+    cursor: pointer;
+
+    &:hover {
+      background: $dark-grey;
+      border: 0;
+      color: white;
+      font-weight: 700;
+    }
+  }
+
+  .defn {
+    font-weight: 700;
+    color: $definition;
+  }
+
+  .linked_auto, .auto {
+    margin: 1rem 0;
+  }
+}

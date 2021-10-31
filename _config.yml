@@ -1,0 +1,21 @@
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+url: https://uclcombiseminar.github.io

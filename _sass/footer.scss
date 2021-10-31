@@ -1,0 +1,27 @@
+footer {
+  background-color: $light-grey;
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  height: $footer-height;
+  text-align: center;
+  font-size: 1rem;
+
+  p {
+    margin-top: 0.5rem;
+    font-family: $heading-font;
+  }
+
+  .socials {
+    vertical-align: middle;
+
+    i {
+      font-size: 2rem;
+      margin-right: 0.5rem;
+    }
+
+    a {
+      color: $main-body;
+    }
+  }
+}

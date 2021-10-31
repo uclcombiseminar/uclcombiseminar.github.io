@@ -1,0 +1,254 @@
+//defensive coding
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-tap-highlight-color: transparent;
+}
+
+//thank you css-tricks for the preload trick
+//stops transitions from firing on page load
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+}
+
+.clear {
+  clear: both;
+}
+
+body {
+  font-size: $base-font-size;
+  font-family: $body-font;
+  line-height: 1.4;
+  color: $main-body;
+}
+
+img, svg {
+  max-width: 100%;
+}
+
+//link styling
+a {
+  color: $main-accent;
+  text-decoration: none;
+  transition: .2s ease-in-out;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: black;
+  }
+}
+
+//default headers styling
+h1, h2, h3 {
+  font-family: $heading-font;
+  padding-top: 0.5rem;
+}
+
+h1 {
+  font-size: 3.15rem;
+  @media only screen and (max-width: $mobile) {
+    font-size: 2.75rem;
+    line-height: 1.25;
+  }
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 2rem;
+  @media only screen and (max-width: $mobile) {
+    font-size: 1.66rem;
+  }
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.03rem;
+  color: $dark-grey;
+}
+
+//base styling for all content sections
+main {
+  max-width: $content-width;
+  @media only screen and (max-width: $mobile) {
+    max-width: $mobile-content-width;
+  }
+  margin: auto;
+  padding: 1rem 0;
+  min-height: calc(100vh - 16rem);
+  // This fixed value makes it so the footer
+  // always sticks to the bottom of the screen.
+  // The 16rem comes from [($footer-height * 2) + 2rem]
+  // since main has a 2rem of padding & margin built in.
+  // 100vh = the height of the viewport.
+}
+
+// gives each paragraph a lil room to breathe
+p {
+  padding-bottom: 0.5rem;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+//grey section lines
+hr {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  color: $section-line;
+  height: 1px;
+  border-top: 0;
+}
+
+//default list styling
+ul, ol {
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+
+  li {
+    margin-left: 1rem;
+  }
+}
+
+//defaults bullet points to solid circles
+ul li {
+  list-style-type: disc;
+
+  //makes sure nested lists display correctly
+  ol li {
+    list-style-type: decimal;
+  }
+}
+
+//defaults lists to 1, 2, 3...
+ol li {
+  list-style-type: decimal;
+
+  //makes sure nested lists display correctly
+  ul li {
+    list-style-type: disc;
+  }
+}
+
+//list styling exception for list of posts on blog.html
+//so it doesn't generate as a bullet point list
+.post-list {
+  margin-left: 0;
+
+  li {
+    list-style-type: none;
+    margin-left: 0;
+  }
+}
+
+//boxed styling
+.boxed {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  background: $light-grey;
+  font-family: $heading-font;
+  font-size: calc(#{$base-font-size} - 1pt);
+}
+
+//inline code styling
+code {font-family: $mono-font;}
+
+//sagecell styling
+.sagecell_output {
+  font-family: $mono-font;
+}
+
+//blockquote styling
+//shamelessly based on
+//https://codepen.io/cliftwalker/pen/XJaEXY
+blockquote{
+  width:80%;
+  margin-left: 75px;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  font-family: $heading-font;
+  padding:1.2em 30px 1.2em 50px;
+  border-left:8px solid $main-accent;
+  line-height:1.6;
+  position: relative;
+  background: $light-grey;
+  font-size: calc(#{$base-font-size} - 1pt);
+}
+
+blockquote::before{
+  font-family:Arial;
+  content: "\201C";
+  color: $main-accent;
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+  content: '';
+}
+
+blockquote span{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
+}
+
+/*Skip to main content hidden link for ADA complicance*/
+/*Courtsey of NC State University*/
+/*https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/skip-to-main-content/*/
+a.skip-main {
+    left:-999px;
+    position:absolute;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    z-index:-999;
+}
+a.skip-main:focus, a.skip-main:active {
+    color: #fff;
+    background-color:#000;
+    left: auto;
+    top: auto;
+    width: 30%;
+    height: auto;
+    overflow:auto;
+    margin: 10px 35%;
+    padding:5px;
+    border-radius: 15px;
+    border:4px solid yellow;
+    text-align:center;
+    font-size:1.2em;
+    z-index:999;
+}

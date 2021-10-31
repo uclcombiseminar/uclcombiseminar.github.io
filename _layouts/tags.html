@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div>
+  <h2>Articles tagged with "{{ page.tag-name }}":</h2>
+  <br>
+
+  <ul>
+  {% for post in site.posts reversed %}
+    {% if post.tags contains page.tag-name %}
+    <li>
+      {{ post.date | date: "%b %Y" }}
+      <a href={{site.baseurl | append: post.url}}>
+        {{ post.title }}
+      </a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>

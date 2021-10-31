@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>7 February 2021</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 07 Feb 1022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1022/02/07/montgomery.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1022/02/07/montgomery.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>13 December 2021</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 13 Dec 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/12/13/kathapurkar.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/12/13/kathapurkar.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>29 November 2021</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 29 Nov 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/11/29/versteegen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/11/29/versteegen.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>22 November 2021</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 22 Nov 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/11/22/bowtell.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/11/22/bowtell.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>15 November 2021</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 15 Nov 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/11/15/deb.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/11/15/deb.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>8 November 2021</title>
+        <description>&lt;p&gt;Let \(H_1, ..., H_r\) be graphs. We write  \(G(n,p) \to (H_1, ..., H_r)\) to denote the property that whenever we colour the edges of \(G(n,p)\) with colours from the set \([r] := \{1, ..., r\}\) there exists some \(1 \leq i \leq r\) and a copy of \(H_i\) in \(G(n,p)\) monochromatic in colour \(i\).&lt;/p&gt;
+
+&lt;p&gt;There has been much interest in determining the asymptotic threshold function for this property. Rödl and Ruciński (1995) determined the threshold function for the general symmetric case; that is, when $H_1=\cdots =H_r$. A conjecture of Kohayakawa and Kreuter (1997), if true, would effectively resolve the asymmetric problem. Recently, the 1-statement of this conjecture was confirmed by Mousset, Nenadov and Samotij (2021+). The 0-statement however has only been proved for pairs of cycles, pairs of cliques and pairs of a clique and a cycle.&lt;/p&gt;
+
+&lt;p&gt;In this talk we introduce a reduction of the 0-statement of Kohayakawa and Kreuter’s conjecture to a certain deterministic, natural subproblem. To demonstrate the potential of this approach, we show this subproblem can be resolved for almost all pairs of regular graphs (satisfying properties one can assume when proving the 0-statement).&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 08 Nov 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/11/08/hyde.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/11/08/hyde.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>18 October 2021</title>
+        <description>&lt;p&gt;We show that any Cayley graph on an Abelian group of order 2n and degree $\tilde{\Omega}(\log n)$ has at most $2^{n+1}(1+o(1))$ independent sets. This bound is tight up to the $o(1)$ term whenever the graph is bipartite. Proof techniques include the graph container method of Sapozhenko and the Plünnecke-Rusza-Petridis inequality from additive combinatorics.&lt;/p&gt;
+
+&lt;p&gt;This is joint work with Aditya Potukuchi.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 18 Oct 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/10/18/yepremyan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/10/18/yepremyan.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>11 October 2021</title>
+        <description>&lt;p&gt;Several classical results in Ramsey theory (including famous theorems of Schur, van der Waerden, Rado) deal with finding monochromatic linear patterns in two-colourings of the integers. Our topic will be quantitative extensions of such results.&lt;/p&gt;
+
+&lt;p&gt;A linear system $L$ over $\mathcal{F}_q$ is common if the number of monochromatic solutions to $L=0$ in any two-colouring of $\mathcal{F}_q^n$ is asymptotically at least the expected number of monochromatic solutions in a random two-colouring of $\mathcal{F}_q^n$. Motivated by existing results for specific systems (such as Schur triples and arithmetic progressions), as well as extensive research on common and Sidorenko graphs, the systematic study of common systems of linear equations was recently initiated by Saad and Wolf. Fox, Pham and Zhao characterised common linear equations.&lt;/p&gt;
+
+&lt;p&gt;I will talk about recent progress towards a classification of common systems of two or more linear equations. In particular, the uncommonness of an arbitrarily large system $L$ can be reduced to studying single equations implied by $L$.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Anita Liebenau and Natasha Morrison.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 11 Oct 1021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1021/10/11/kamcev.html</link>
+        <guid isPermaLink="true">http://localhost:4000/1021/10/11/kamcev.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

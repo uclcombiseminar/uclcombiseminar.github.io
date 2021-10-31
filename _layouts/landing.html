@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+    {% feed_meta %} <!-- Make RSS feed work (jekyll-feed plugin) -->
+    {% seo %}       <!-- Make SEO plugin work, despite not knowing what an SEO is -->
+  </head>
+  <body>
+    <main class="landing">
+      {{ content }}
+
+      <section class="landing-links">
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+          {{ item.name }}
+        </a>
+        {% endfor %}
+      </section>
+    </main>
+  </body>
+</html>
