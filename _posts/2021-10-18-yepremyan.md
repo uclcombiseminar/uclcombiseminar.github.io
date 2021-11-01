@@ -4,7 +4,7 @@ speaker: Liana Yepremyan
 speaker-url: https://www.lianayepremyan.com
 speaker-uni: Emory University
 title: 18 October 2021
-subtitle: Common linear patterns are rare
+subtitle: Enumerating independent sets in Abelian Cayley graphs
 
 excerpt_separator: <!--more-->
 ---
