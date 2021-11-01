@@ -8,7 +8,7 @@ To subscribe to the mailing list, please email Shoham Letzter at s [dot] letzter
 
 ---
 
-# Next Speaker:
+# Next Speaker
 
 <ul class="post-list">
   {% for post in site.posts reversed %}

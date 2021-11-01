@@ -8,7 +8,7 @@ title: Past Talks
   {% capture currentDate %}
   {{ 'now' | date: '%s'}}
   {% endcapture %}
-  {% for post in site.posts reversed %}
+  {% for post in site.posts%}
   {% capture postDate %}
   {{ post.date | date: '%s'}}
   {% endcapture %}
