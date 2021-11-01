@@ -9,13 +9,14 @@ To subscribe to the mailing list, please email Shoham Letzter at s [dot] letzter
 ---
 
 # Next Speaker
-
+<br>
 <ul class="post-list">
   {% for post in site.posts reversed %}
     {% if post.title contains '8 November' %}
     <li>
       <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
       <h2>{{ post.subtitle }}</h2>
+      <br>
       <p>{{ post.excerpt }}</p>
     </li>
     <!-- Don't show other talks -->
