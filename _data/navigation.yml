@@ -1,4 +1,6 @@
-- name: Talks
-  link: /talks
+- name: Past Talks
+  link: /pasttalks
+- name: Upcoming Talks
+  link: /upcomingtalks
 - name: Home
   link: /

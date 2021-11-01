@@ -1,0 +1,25 @@
+---
+layout: default
+title: Upcoming Talks
+---
+<h1>Upcoming talks</h1>
+
+<ul class="post-list">
+  {% capture currentDate %}
+  {{ 'now' | date: '%s'}}
+  {% endcapture %}
+  {% for post in site.posts reversed %}
+  {% capture postDate %}
+  {{ post.date | date: '%s'}}
+  {% endcapture %}
+    {% if currentDate > postDate %}
+    <!-- Don't show drafts -->
+    {% else %}
+    <li>
+      <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
+      <h2>{{ post.subtitle }}</h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>

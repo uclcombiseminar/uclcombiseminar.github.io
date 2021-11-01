@@ -6,12 +6,9 @@ The University College London (UCL) Combinatorics Seminar takes place weekly on 
 
 To subscribe to the mailing list, please email Shoham Letzter at s [dot] letzter [at] ucl [dot] ac [dot] uk.
 
-To see a list of past and future talks, see the [Talks](http://localhost:4000/blog/) page.
-
 ---
 
 # Next Speaker:
----
 
 <ul class="post-list">
   {% for post in site.posts reversed %}

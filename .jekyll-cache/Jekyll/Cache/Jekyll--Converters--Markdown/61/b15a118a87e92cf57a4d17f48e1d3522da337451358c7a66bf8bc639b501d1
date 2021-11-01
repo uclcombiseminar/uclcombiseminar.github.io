@@ -1,0 +1,51 @@
+I"�<p>The University College London (UCL) Combinatorics Seminar takes place weekly on Mondays, from 4pm to 5pm, at 25 Gordon Street (UCLU Building) Room 706. It is organised by <a href="http://www.homepages.ucl.ac.uk/~ucahsle/">Shoham Letzter</a>  and <a href="https://alexeypokrovskiy.com">Alexey Pokrovskiy</a>.</p>
+
+<p>To subscribe to the mailing list, please email Shoham Letzter at s [dot] letzter [at] ucl [dot] ac [dot] uk.</p>
+
+<p>To see a list of past talks,  <a href="https://uclcombiseminar.github.io/talks">Talks</a> page.</p>
+
+<hr />
+
+<h1 id="next-speaker">Next Speaker:</h1>
+<hr />
+
+<ul class="post-list">
+  
+    
+        
+  
+    
+        
+  
+    
+    <li>
+      <h2>8 November 2021 - <a href="https://joseph-hyde.com/">Joseph Hyde</a> (University of Warwick)</h2>
+      <h2>Progress on the Kohayakawa-Kreuter conjecture</h2>
+      <p><p>Let \(H_1, ..., H_r\) be graphs. We write  \(G(n,p) \to (H_1, ..., H_r)\) to denote the property that whenever we colour the edges of \(G(n,p)\) with colours from the set \([r] := \{1, ..., r\}\) there exists some \(1 \leq i \leq r\) and a copy of \(H_i\) in \(G(n,p)\) monochromatic in colour \(i\).</p>
+
+<p>There has been much interest in determining the asymptotic threshold function for this property. Rödl and Ruciński (1995) determined the threshold function for the general symmetric case; that is, when $H_1=\cdots =H_r$. A conjecture of Kohayakawa and Kreuter (1997), if true, would effectively resolve the asymmetric problem. Recently, the 1-statement of this conjecture was confirmed by Mousset, Nenadov and Samotij (2021+). The 0-statement however has only been proved for pairs of cycles, pairs of cliques and pairs of a clique and a cycle.</p>
+
+<p>In this talk we introduce a reduction of the 0-statement of Kohayakawa and Kreuter’s conjecture to a certain deterministic, natural subproblem. To demonstrate the potential of this approach, we show this subproblem can be resolved for almost all pairs of regular graphs (satisfying properties one can assume when proving the 0-statement).</p>
+
+</p>
+    </li>
+    <!-- Don't show other talks -->
+    
+  
+    
+        
+  
+    
+        
+  
+    
+        
+  
+    
+        
+  
+    
+        
+  
+</ul>
+:ET
