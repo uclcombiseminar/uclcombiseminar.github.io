@@ -16,7 +16,11 @@ title: Past Talks
     <!-- Don't show drafts -->
     {% else %}
     <li>
+	  {% if post.speaker-url == null or post.speaker-url == "" %}
+      <h2>{{ post.title }} - {{ post.speaker }} ({{ post.speaker-uni }})</h2>
+	  {% else %}
       <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
+	  {% endif %}
       <h2>{{ post.subtitle }}</h2>
       <br>
       <p>{{ post.excerpt }}</p>
