@@ -8,6 +8,28 @@
     
       
       <item>
+        <title>14 March 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/03/14/mond.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/03/14/mond.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>28 February 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/02/28/fischer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/02/28/fischer.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>7 February 2021</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -19,12 +41,45 @@
     
       
       <item>
+        <title>31 January 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/01/31/girao.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/31/girao.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>24 January 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/01/24/kronenberg.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/24/kronenberg.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>13 December 2021</title>
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/12/13/kathapurkar.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/12/13/kathapurkar.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>6 December 2021</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021/12/06/sahasrabudhe.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/06/sahasrabudhe.html</guid>
       </item>
       
     
@@ -42,7 +97,7 @@
       
       <item>
         <title>22 November 2021</title>
-        <description>&lt;p&gt;The $n$-queens problem asks how many ways there are to place $n$ queens on an $n \times n$ chessboard so that no two queens can attack one another, and the toroidal $n$-queens problem asks the same question where the board is considered on the surface of a torus. Let $Q(n)$ denote the number of $n$-queens configurations on the classical board and $T(n)$ the number of toroidal $n$-queens configurations. The toroidal problem was first studied in 1918 by P&apos;{o}lya who showed that $T(n)&amp;gt;0$ if and only if $n \equiv 1,5 \mod 6$. Much more recently Luria showed that $T(n)\leq ((1+o(1))ne^{-3})^n$ and conjectured equality when $n \equiv 1,5 \mod 6$. We prove this conjecture, prior to which no non-trivial lower bounds were known to hold for all (sufficiently large) $n \equiv 1,5 \mod 6$. We also show that $Q(n)\geq((1+o(1))ne^{-3})^n$ for all $n \in \mathbb{N}$ which was independently proved by Luria and Simkin and, combined with our toroidal result, completely settles a conjecture of Rivin, Vardi and Zimmerman regarding both $Q(n)$ and $T(n)$.&lt;/p&gt;
+        <description>&lt;p&gt;The $n$-queens problem asks how many ways there are to place $n$ queens on an $n \times n$ chessboard so that no two queens can attack one another, and the toroidal $n$-queens problem asks the same question where the board is considered on the surface of a torus. Let $Q(n)$ denote the number of $n$-queens configurations on the classical board and $T(n)$ the number of toroidal $n$-queens configurations. The toroidal problem was first studied in 1918 by Pólya who showed that $T(n)&amp;gt;0$ if and only if $n \equiv 1,5 \mod 6$. Much more recently Luria showed that $T(n)\leq ((1+o(1))ne^{-3})^n$ and conjectured equality when $n \equiv 1,5 \mod 6$. We prove this conjecture, prior to which no non-trivial lower bounds were known to hold for all (sufficiently large) $n \equiv 1,5 \mod 6$. We also show that $Q(n)\geq((1+o(1))ne^{-3})^n$ for all $n \in \mathbb{N}$ which was independently proved by Luria and Simkin and, combined with our toroidal result, completely settles a conjecture of Rivin, Vardi and Zimmermn regarding both $Q(n)$ and $T(n)$.&lt;/p&gt;
 
 &lt;p&gt;In this talk we’ll discuss our methods used to prove these results. A crucial element of this is translating the problem to one of counting matchings in a $4$-partite $4$-uniform hypergraph. Our strategy combines a random greedy algorithm to count `almost’ configurations with a complex absorbing strategy that uses ideas from the methods of randomised algebraic construction and iterative absorption.&lt;/p&gt;
 
@@ -70,57 +125,6 @@
         <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/11/15/deb.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/11/15/deb.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>8 November 2021</title>
-        <description>&lt;p&gt;Let \(H_1, ..., H_r\) be graphs. We write  \(G(n,p) \to (H_1, ..., H_r)\) to denote the property that whenever we colour the edges of \(G(n,p)\) with colours from the set \([r] := \{1, ..., r\}\) there exists some \(1 \leq i \leq r\) and a copy of \(H_i\) in \(G(n,p)\) monochromatic in colour \(i\).&lt;/p&gt;
-
-&lt;p&gt;There has been much interest in determining the asymptotic threshold function for this property. Rödl and Ruciński (1995) determined the threshold function for the general symmetric case; that is, when $H_1=\cdots =H_r$. A conjecture of Kohayakawa and Kreuter (1997), if true, would effectively resolve the asymmetric problem. Recently, the 1-statement of this conjecture was confirmed by Mousset, Nenadov and Samotij (2021+). The 0-statement however has only been proved for pairs of cycles, pairs of cliques and pairs of a clique and a cycle.&lt;/p&gt;
-
-&lt;p&gt;In this talk we introduce a reduction of the 0-statement of Kohayakawa and Kreuter’s conjecture to a certain deterministic, natural subproblem. To demonstrate the potential of this approach, we show this subproblem can be resolved for almost all pairs of regular graphs (satisfying properties one can assume when proving the 0-statement).&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/11/08/hyde.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/11/08/hyde.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>18 October 2021</title>
-        <description>&lt;p&gt;We show that any Cayley graph on an Abelian group of order 2n and degree $\tilde{\Omega}(\log n)$ has at most $2^{n+1}(1+o(1))$ independent sets. This bound is tight up to the $o(1)$ term whenever the graph is bipartite. Proof techniques include the graph container method of Sapozhenko and the Plünnecke-Rusza-Petridis inequality from additive combinatorics.&lt;/p&gt;
-
-&lt;p&gt;This is joint work with Aditya Potukuchi.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 18 Oct 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/10/18/yepremyan.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/10/18/yepremyan.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>11 October 2021</title>
-        <description>&lt;p&gt;Several classical results in Ramsey theory (including famous theorems of Schur, van der Waerden, Rado) deal with finding monochromatic linear patterns in two-colourings of the integers. Our topic will be quantitative extensions of such results.&lt;/p&gt;
-
-&lt;p&gt;A linear system $L$ over $\mathcal{F}_q$ is common if the number of monochromatic solutions to $L=0$ in any two-colouring of $\mathcal{F}_q^n$ is asymptotically at least the expected number of monochromatic solutions in a random two-colouring of $\mathcal{F}_q^n$. Motivated by existing results for specific systems (such as Schur triples and arithmetic progressions), as well as extensive research on common and Sidorenko graphs, the systematic study of common systems of linear equations was recently initiated by Saad and Wolf. Fox, Pham and Zhao characterised common linear equations.&lt;/p&gt;
-
-&lt;p&gt;I will talk about recent progress towards a classification of common systems of two or more linear equations. In particular, the uncommonness of an arbitrarily large system $L$ can be reduced to studying single equations implied by $L$.&lt;/p&gt;
-
-&lt;p&gt;Joint work with Anita Liebenau and Natasha Morrison.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/10/11/kamcev.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/10/11/kamcev.html</guid>
       </item>
       
     
