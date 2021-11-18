@@ -1,0 +1,46 @@
+I"L	<p>The University College London (UCL) Combinatorics Seminar takes place weekly on Mondays, from 4pm to 5pm, at 25 Gordon Street (UCLU Building) Room 706. It is organised by <a href="http://www.homepages.ucl.ac.uk/~ucahsle/">Shoham Letzter</a>  and <a href="https://alexeypokrovskiy.com">Alexey Pokrovskiy</a>.</p>
+
+<p>To subscribe to the mailing list, please email Shoham Letzter at s [dot] letzter [at] ucl [dot] ac [dot] uk.</p>
+
+<hr />
+
+<h1 id="next-speaker">Next Speaker</h1>
+<p><br /></p>
+<ul class="post-list">
+
+  
+  
+    
+    
+  
+  
+    
+    
+  
+  
+    
+    
+  
+  
+    
+    
+  
+  
+    
+    <!-- Don't show drafts -->
+    <li>
+      <h2>22 November 2021 - <a href="https://sites.google.com/view/candidabowtell">Candida Bowtell</a> (Oxford)</h2>
+      <h2>The $n$-queens problem</h2>
+      <br />
+      <p><p>The $n$-queens problem asks how many ways there are to place $n$ queens on an $n \times n$ chessboard so that no two queens can attack one another, and the toroidal $n$-queens problem asks the same question where the board is considered on the surface of a torus. Let $Q(n)$ denote the number of $n$-queens configurations on the classical board and $T(n)$ the number of toroidal $n$-queens configurations. The toroidal problem was first studied in 1918 by P'{o}lya who showed that $T(n)&gt;0$ if and only if $n \equiv 1,5 \mod 6$. Much more recently Luria showed that $T(n)\leq ((1+o(1))ne^{-3})^n$ and conjectured equality when $n \equiv 1,5 \mod 6$. We prove this conjecture, prior to which no non-trivial lower bounds were known to hold for all (sufficiently large) $n \equiv 1,5 \mod 6$. We also show that $Q(n)\geq((1+o(1))ne^{-3})^n$ for all $n \in \mathbb{N}$ which was independently proved by Luria and Simkin and, combined with our toroidal result, completely settles a conjecture of Rivin, Vardi and Zimmerman regarding both $Q(n)$ and $T(n)$.</p>
+
+<p>In this talk we’ll discuss our methods used to prove these results. A crucial element of this is translating the problem to one of counting matchings in a $4$-partite $4$-uniform hypergraph. Our strategy combines a random greedy algorithm to count `almost’ configurations with a complex absorbing strategy that uses ideas from the methods of randomised algebraic construction and iterative absorption.</p>
+
+<p>This is joint work with Peter Keevash.</p>
+
+</p>
+      <br /><br />
+    </li>
+    
+</ul>
+:ET
