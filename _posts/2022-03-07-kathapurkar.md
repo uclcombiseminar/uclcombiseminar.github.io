@@ -3,8 +3,8 @@ layout: post
 speaker: Amarja Kathapurkar
 speaker-url: 
 speaker-uni: Birmingham
-title: 13 December 2021
-subtitle: Spanning trees in dense digraphs - CANCELLED!
+title: 7 March 2022
+subtitle: Spanning trees in dense digraphs
 
 excerpt_separator: <!--more-->
 ---

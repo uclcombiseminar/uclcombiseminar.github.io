@@ -19,6 +19,19 @@
     
       
       <item>
+        <title>7 March 2022</title>
+        <description>&lt;p&gt;In 2001, Komlós, Sárközy and Szemerédi proved that for sufficiently large $n$, every $n$-vertex graph with minimum degree at least $n/2 + o(n)$ contains a copy of every $n$-vertex tree with maximum degree at most $O(n/\log n)$. We prove the corresponding result for directed graphs. That is, we show that for sufficiently large $n$, every $n$-vertex directed graph with minimum semidegree at least $n/2 + o(n)$ contains a copy of every $n$-vertex oriented tree whose underlying maximum degree is at most $O(n/\log n)$. This improves a recent result of Mycroft and Naia, which requires the oriented trees to have underlying maximum degree at most $\Delta$, for any constant $\Delta$ and sufficiently large $n$.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/03/07/kathapurkar.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/03/07/kathapurkar.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>28 February 2022</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -69,19 +82,6 @@
         <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/01/24/kronenberg.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/01/24/kronenberg.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>13 December 2021</title>
-        <description>&lt;p&gt;In 2001, Komlós, Sárközy and Szemerédi proved that for sufficiently large $n$, every $n$-vertex graph with minimum degree at least $n/2 + o(n)$ contains a copy of every $n$-vertex tree with maximum degree at most $O(n/\log n)$. We prove the corresponding result for directed graphs. That is, we show that for sufficiently large $n$, every $n$-vertex directed graph with minimum semidegree at least $n/2 + o(n)$ contains a copy of every $n$-vertex oriented tree whose underlying maximum degree is at most $O(n/\log n)$. This improves a recent result of Mycroft and Naia, which requires the oriented trees to have underlying maximum degree at most $\Delta$, for any constant $\Delta$ and sufficiently large $n$.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/12/13/kathapurkar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/12/13/kathapurkar.html</guid>
       </item>
       
     
