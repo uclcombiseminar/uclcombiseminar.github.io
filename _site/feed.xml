@@ -8,7 +8,7 @@
     
       
       <item>
-        <title>24 January 2022</title>
+        <title>21 March 2022</title>
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
@@ -82,7 +82,7 @@ colouring of the natural numbers there exist arbitrarily long monochromatic arit
 Ramsey-theoretical results (finite colourings) have a canonical version. In this setting, the palette of colours
 may be infinite but one still would like to characterize all unavoidable sub-structures. For example, the
 canonical Van der Waerden’s Theorem, first proved by Erdős and Graham, states that in any colouring
-of $N$ there exist either arbitrarily long monochromatic arithmetic progressions or arbitrarily long rainbow
+of $[N]$ there exist either arbitrarily long monochromatic arithmetic progressions or arbitrarily long rainbow
 arithmetic progressions. In this talk, we shall talk about a canonical version of the polynomial Van der
 Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
 

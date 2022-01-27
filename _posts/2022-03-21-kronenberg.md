@@ -3,7 +3,7 @@ layout: post
 speaker: Gal Kronenberg
 speaker-url: https://www.maths.ox.ac.uk/people/gal.kronenberg
 speaker-uni: Oxford
-title: 24 January 2022
+title: 21 March 2022
 subtitle: TBA
 
 excerpt_separator: <!--more-->
