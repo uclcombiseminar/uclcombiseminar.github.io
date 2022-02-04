@@ -20,3 +20,6 @@ plugins:
 
 url: https://uclcombiseminar.github.io
 domain: uclcombiseminar.github.io
+
+
+future: true
