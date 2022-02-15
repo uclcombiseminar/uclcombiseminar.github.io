@@ -11,7 +11,7 @@
         <title>21 March 2022</title>
         <description>&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 21 Mar 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/03/21/kronenberg.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/21/kronenberg.html</guid>
       </item>
@@ -22,7 +22,7 @@
         <title>14 March 2022</title>
         <description>&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 14 Mar 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/03/14/mond.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/14/mond.html</guid>
       </item>
@@ -35,7 +35,7 @@
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 07 Mar 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/03/07/kathapurkar.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/07/kathapurkar.html</guid>
       </item>
@@ -46,7 +46,7 @@
         <title>28 February 2022</title>
         <description>&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 28 Feb 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/02/28/fischer.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/02/28/fischer.html</guid>
       </item>
@@ -55,9 +55,11 @@
       
       <item>
         <title>21 February 2022</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;Given any graph with lights turned on at each vertex and buttons corresponding to each vertex that toggle the status (on/off) of the vertex together with its neighbourhood, is there always a sequence of button-pushes that turns all of the lights off? This puzzle is answered by a folklore result of Gallai on partitioning the vertex set of a graph into two parts, each inducing a subgraph with specified degree parity conditions. A natural follow-up is to consider partitions satisfying prescribed degree congruence conditions modulo $q$. Recently, Ferber, Hardiman and Krivelevich showed that, for any $0\leq x &amp;lt;q$, almost every $G_{n,1/2}$ has a vertex partition into $q+1$ parts such that each induced subgraph has degrees $x \bmod q$, and asked whether the same holds with $q$ parts. In this talk, we outline why this is not the case; in fact, the distribution of the counts of such `good’ partitions into $q$ parts is asymptotically Poisson. This is joint work with Paul Balister, Emil Powierski and Alex Scott.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 21 Feb 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/02/21/tan.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/02/21/tan.html</guid>
       </item>
@@ -82,7 +84,7 @@ particular the challenges of using absorption techniques in this setting.&lt;/p&
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 07 Feb 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/02/07/montgomery.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/02/07/montgomery.html</guid>
       </item>
@@ -102,7 +104,7 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/01/31/girao.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/01/31/girao.html</guid>
       </item>
@@ -114,7 +116,7 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
         <description>&lt;p&gt;Let $M_n$ be drawn uniformly from all $n$ by $n$ symmetric matrices with coefficients in {$-1,1$}. We consider the following basic problem: what is the probability $M_n$ is singular? In this talk I will discuss some recent joint work with Marcelo Campos, Matthew Jenssen and Marcus Michelen, where we show the singularity probability is exponentially small. At the heart of the proof is a combinatorial “decoupling” lemma which I suspect has applications well beyond the scope of our work.
 &lt;!--more--&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Dec 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/12/06/sahasrabudhe.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/12/06/sahasrabudhe.html</guid>
       </item>
@@ -127,7 +129,7 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 29 Nov 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/11/29/versteegen.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/11/29/versteegen.html</guid>
       </item>
@@ -144,7 +146,7 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 22 Nov 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/11/22/bowtell.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/11/22/bowtell.html</guid>
       </item>
