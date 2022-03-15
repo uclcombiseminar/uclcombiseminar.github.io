@@ -1,0 +1,7 @@
+I"Þ<p>For $0 \le r &lt; k$, a Hamiltonian $r$-cycle in a $k$-uniform hypergraph $H$ is a cyclic ordering of the vertices of $H$ in which the edges are segments of length $k$ and every two consecutive edges overlap in exactly $r$ vertices.
+We show that for all $0 \le r &lt; k-1$, every Dirac $k$-graph, that is, a $k$-graph with minimum co-degree $pn$ for some $p&gt;1/2$, has (up to a subexponential factor) at least as many Hamiltonian $r$-cycles as a typical random $k$-graph with edge-probability p.
+This improves a recent result of Glock, Gould, Joos, Osthus and KÃ¼hn, and verifies a conjecture of Ferber, Krivelevich and Sudakov for all values $0 \le r &lt; k-1$.
+(Joint work with Asaf Ferber and Liam Hardiman.)</p>
+
+<!--more-->
+:ET

@@ -9,7 +9,14 @@
       
       <item>
         <title>21 March 2022</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;Independent sets in bipartite regular graphs have been studied extensively in combinatorics, probability, computer science and more. The problem of counting independent sets is particularly interesting in the $d$-dimensional hypercube {$0,1$}$^d$, motivated by the lattice gas hardcore model from statistical physics. Independent sets also turn out to be very interesting in the context of random graphs.&lt;/p&gt;
+
+&lt;p&gt;The number of independent sets in the hypercube {$0,1$}$^d$ was estimated precisely by Korshunov and Sapozhenko in the 1980s and recently refined by Jenssen and Perkins.&lt;/p&gt;
+
+&lt;p&gt;In this talk we will discuss new results on the number of independent sets in a random subgraph of the hypercube. The results extend to the hardcore model and rely on an analysis of the antiferromagnetic Ising model on the hypercube.&lt;/p&gt;
+
+&lt;p&gt;This talk is based on joint work with Yinon Spinka.
+&lt;!--more--&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/03/21/kronenberg.html</link>
