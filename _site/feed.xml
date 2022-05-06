@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>10 May 2022</title>
+        <description>&lt;p&gt;We will present a new upper bound of $s_r(K_k) = O(k^5 r^{5/2})$ on the Ramsey parameter $s_r(K_k)$ introduced by Burr, Erd&lt;span&gt;ő&lt;/span&gt;s and Lovász in 1976, which is defined as the smallest minimum degree of a graph $G$ such that any $r$-colouring of the edges of $G$ contains a monochromatic $K_k$, whereas no proper subgraph of $G$ has this property. This improves the previous upper bound of $s_r(K_k) = O(k^6 r^3)$ proved by Fox et al. The construction used in our proof relies on a group theoretic model of generalised quadrangles introduced by Kantor in 1980.&lt;/p&gt;
+
+&lt;p&gt;This is joint work with John Bamberg and Thomas Lesgourgues.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 10 May 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/05/10/bishnoi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/05/10/bishnoi.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>21 March 2022</title>
         <description>&lt;p&gt;Independent sets in bipartite regular graphs have been studied extensively in combinatorics, probability, computer science and more. The problem of counting independent sets is particularly interesting in the $d$-dimensional hypercube {$0,1$}$^d$, motivated by the lattice gas hardcore model from statistical physics. Independent sets also turn out to be very interesting in the context of random graphs.&lt;/p&gt;
 
@@ -150,23 +165,6 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
         <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/11/22/bowtell.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/11/22/bowtell.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>15 November 2021</title>
-        <description>&lt;p&gt;Consider the following card guessing game introduced by Diaconis and Graham (1981): there is a shuffled deck of $mn$ cards with n distinct cards appearing with multiplicity $m$. In each round, the player has to guess the top card of the deck, and is then told whether the guess was correct or not, the top card is then discarded and then the game continues with the next card. This is known as the partial feedback model. The aim is maximise the number of correct guesses. One possible strategy is the shifting strategy in which the player keeps guessing $1$ every round until the guess is correct in some round, and then keeps guessing $2$, and then $3$ and so on. We are interested in finding the expected score using this strategy.&lt;/p&gt;
-
-&lt;p&gt;We can restate this problem as finding the expected length of the longest increasing subsequence of the form $123\ldots i$ in a word formed using letters $1$ to $n$ where each letter occurs with multiplicity $m$. In this talk, we show that this number is $m+1 - 1/(m+2)$ plus an exponential error term. This settles a conjecture of Diaconis, Graham, He and Spiro.&lt;/p&gt;
-
-&lt;p&gt;This talk will be at an interface between combinatorics, probability and analysis, and is based on joint work with Alexander Clifton, Yifeng Huang, Sam Spiro and Semin Yoo.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/11/15/deb.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/11/15/deb.html</guid>
       </item>
       
     
