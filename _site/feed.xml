@@ -8,6 +8,17 @@
     
       
       <item>
+        <title>25 October 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/10/25/granet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/25/granet.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>10 May 2022</title>
         <description>&lt;p&gt;We will present a new upper bound of $s_r(K_k) = O(k^5 r^{5/2})$ on the Ramsey parameter $s_r(K_k)$ introduced by Burr, Erd&lt;span&gt;ő&lt;/span&gt;s and Lovász in 1976, which is defined as the smallest minimum degree of a graph $G$ such that any $r$-colouring of the edges of $G$ contains a monochromatic $K_k$, whereas no proper subgraph of $G$ has this property. This improves the previous upper bound of $s_r(K_k) = O(k^6 r^3)$ proved by Fox et al. The construction used in our proof relies on a group theoretic model of generalised quadrangles introduced by Kantor in 1980.&lt;/p&gt;
 
@@ -148,23 +159,6 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
         <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2021/11/29/versteegen.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/11/29/versteegen.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>22 November 2021</title>
-        <description>&lt;p&gt;The $n$-queens problem asks how many ways there are to place $n$ queens on an $n \times n$ chessboard so that no two queens can attack one another, and the toroidal $n$-queens problem asks the same question where the board is considered on the surface of a torus. Let $Q(n)$ denote the number of $n$-queens configurations on the classical board and $T(n)$ the number of toroidal $n$-queens configurations. The toroidal problem was first studied in 1918 by Pólya who showed that $T(n)&amp;gt;0$ if and only if $n \equiv 1,5 \mod 6$. Much more recently Luria showed that $T(n)\leq ((1+o(1))ne^{-3})^n$ and conjectured equality when $n \equiv 1,5 \mod 6$. We prove this conjecture, prior to which no non-trivial lower bounds were known to hold for all (sufficiently large) $n \equiv 1,5 \mod 6$. We also show that $Q(n)\geq((1+o(1))ne^{-3})^n$ for all $n \in \mathbb{N}$ which was independently proved by Luria and Simkin and, combined with our toroidal result, completely settles a conjecture of Rivin, Vardi and Zimmermn regarding both $Q(n)$ and $T(n)$.&lt;/p&gt;
-
-&lt;p&gt;In this talk we’ll discuss our methods used to prove these results. A crucial element of this is translating the problem to one of counting matchings in a $4$-partite $4$-uniform hypergraph. Our strategy combines a random greedy algorithm to count `almost’ configurations with a complex absorbing strategy that uses ideas from the methods of randomised algebraic construction and iterative absorption.&lt;/p&gt;
-
-&lt;p&gt;This is joint work with Peter Keevash.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/11/22/bowtell.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/11/22/bowtell.html</guid>
       </item>
       
     
