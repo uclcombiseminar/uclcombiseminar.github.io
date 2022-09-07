@@ -30,6 +30,17 @@
     
       
       <item>
+        <title>11 October 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/10/11/ivan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/11/ivan.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>10 May 2022</title>
         <description>&lt;p&gt;We will present a new upper bound of $s_r(K_k) = O(k^5 r^{5/2})$ on the Ramsey parameter $s_r(K_k)$ introduced by Burr, Erd&lt;span&gt;ő&lt;/span&gt;s and Lovász in 1976, which is defined as the smallest minimum degree of a graph $G$ such that any $r$-colouring of the edges of $G$ contains a monochromatic $K_k$, whereas no proper subgraph of $G$ has this property. This improves the previous upper bound of $s_r(K_k) = O(k^6 r^3)$ proved by Fox et al. The construction used in our proof relies on a group theoretic model of generalised quadrangles introduced by Kantor in 1980.&lt;/p&gt;
 
@@ -145,18 +156,6 @@ Waerden’s Theorem, originally proved by Bergelson and Liebman.&lt;/p&gt;
         <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/01/31/girao.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/01/31/girao.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>6 December 2021</title>
-        <description>&lt;p&gt;Let $M_n$ be drawn uniformly from all $n$ by $n$ symmetric matrices with coefficients in {$-1,1$}. We consider the following basic problem: what is the probability $M_n$ is singular? In this talk I will discuss some recent joint work with Marcelo Campos, Matthew Jenssen and Marcus Michelen, where we show the singularity probability is exponentially small. At the heart of the proof is a combinatorial “decoupling” lemma which I suspect has applications well beyond the scope of our work.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/12/06/sahasrabudhe.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/12/06/sahasrabudhe.html</guid>
       </item>
       
     
