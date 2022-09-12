@@ -19,6 +19,17 @@
     
       
       <item>
+        <title>22 November 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/11/22/liu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/11/22/liu.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>15 November 2022</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -122,31 +133,6 @@ This improves a recent result of Glock, Gould, Joos, Osthus and Kühn, and verif
         <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/02/28/tan.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/02/28/tan.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>7 February 2021</title>
-        <description>&lt;p&gt;A Latin square of order $n$ is an $n$ by $n$ grid filled with $n$ symbols, so
-that every symbol appears exactly once in each row and each column. A
-transversal of a Latin square is a collection of cells in the grid which
-share no row, column or symbol.&lt;/p&gt;
-
-&lt;p&gt;The Ryser-Brualdi-Stein conjecture says that every Latin square of order
-$n$ has a transversal with $n-1$ cells if $n$ is even and with $n$ cells if $n$ is
-odd. Recently, Keevash, Pokrovskiy, Sudakov and Yepremyan broke a
-long-standing bound on this problem by showing that every Latin square
-of order $n$ has a transversal with $n-O(\log n/\log \log n)$ cells.&lt;/p&gt;
-
-&lt;p&gt;I will discuss how to make further progress on this problem, and in
-particular the challenges of using absorption techniques in this setting.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/02/07/montgomery.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/02/07/montgomery.html</guid>
       </item>
       
     
