@@ -63,6 +63,28 @@
     
       
       <item>
+        <title>4 October 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/10/04/fischer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/04/fischer.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>28 September 2022</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Wed, 28 Sep 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/09/28/muyesser.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/09/28/muyesser.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>10 May 2022</title>
         <description>&lt;p&gt;We will present a new upper bound of $s_r(K_k) = O(k^5 r^{5/2})$ on the Ramsey parameter $s_r(K_k)$ introduced by Burr, Erd&lt;span&gt;ő&lt;/span&gt;s and Lovász in 1976, which is defined as the smallest minimum degree of a graph $G$ such that any $r$-colouring of the edges of $G$ contains a monochromatic $K_k$, whereas no proper subgraph of $G$ has this property. This improves the previous upper bound of $s_r(K_k) = O(k^6 r^3)$ proved by Fox et al. The construction used in our proof relies on a group theoretic model of generalised quadrangles introduced by Kantor in 1980.&lt;/p&gt;
 
@@ -107,32 +129,6 @@ This improves a recent result of Glock, Gould, Joos, Osthus and Kühn, and verif
         <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022/03/14/mond.html</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/14/mond.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>7 March 2022</title>
-        <description>&lt;p&gt;In 2001, Komlós, Sárközy and Szemerédi proved that for sufficiently large $n$, every $n$-vertex graph with minimum degree at least $n/2 + o(n)$ contains a copy of every $n$-vertex tree with maximum degree at most $O(n/\log n)$. We prove the corresponding result for directed graphs. That is, we show that for sufficiently large $n$, every $n$-vertex directed graph with minimum semidegree at least $n/2 + o(n)$ contains a copy of every $n$-vertex oriented tree whose underlying maximum degree is at most $O(n/\log n)$. This improves a recent result of Mycroft and Naia, which requires the oriented trees to have underlying maximum degree at most $\Delta$, for any constant $\Delta$ and sufficiently large $n$.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/03/07/kathapurkar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/03/07/kathapurkar.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>28 February 2022</title>
-        <description>&lt;p&gt;Given any graph with lights turned on at each vertex and buttons corresponding to each vertex that toggle the status (on/off) of the vertex together with its neighbourhood, is there always a sequence of button-pushes that turns all of the lights off? This puzzle is answered by a folklore result of Gallai on partitioning the vertex set of a graph into two parts, each inducing a subgraph with specified degree parity conditions. A natural follow-up is to consider partitions satisfying prescribed degree congruence conditions modulo $q$. Recently, Ferber, Hardiman and Krivelevich showed that, for any $0\leq x &amp;lt;q$, almost every $G_{n,1/2}$ has a vertex partition into $q+1$ parts such that each induced subgraph has degrees $x \bmod q$, and asked whether the same holds with $q$ parts. In this talk, we outline why this is not the case; in fact, the distribution of the counts of such `good’ partitions into $q$ parts is asymptotically Poisson. This is joint work with Paul Balister, Emil Powierski and Alex Scott.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/02/28/tan.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/02/28/tan.html</guid>
       </item>
       
     
