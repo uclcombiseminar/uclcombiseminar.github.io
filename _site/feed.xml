@@ -64,7 +64,15 @@
       
       <item>
         <title>25 October 2022</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;A &lt;em&gt;regular bipartite tournament&lt;/em&gt; is an orientation of a complete
+balanced bipartite graph $K_{2n,2n}$ where every vertex has its in- and
+outdegree both equal to $n$. In 1981, Jackson conjectured that any
+regular bipartite tournament can be decomposed into Hamilton cycles. We
+prove this conjecture for sufficiently large $n$. Along the way, we also
+prove several further results, including a conjecture of Liebenau and
+Pehova on Hamilton decompositions of dense bipartite digraphs.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 25 Oct 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2022/10/25/granet.html</link>
