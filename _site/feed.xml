@@ -114,7 +114,10 @@ between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
       
       <item>
         <title>4 October 2022</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;I will consider selection rules that map any directed graph (without loops) to a subset of its vertices. A selection rule is impartial if the selection of a vertex is independent of its outgoing edges, and an optimal impartial rule is one that in any graph selects vertices with large degrees. The idea is that vertices and edges represent individuals and nominations among invidiuals, and we want to select highly nominated individuals without individuals having an influence on their own selection. I will discuss what is know about impartial selection and point to some open problems.&lt;/p&gt;
+
+&lt;p&gt;The talk is based on joint work with Noga Alon, Antje Bjelde, Javier Cembrano, David Hannon, Max Klimm, Ariel Procaccia, and Moshe Tennenholtz.
+&lt;!--more--&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2022/10/04/fischer.html</link>
