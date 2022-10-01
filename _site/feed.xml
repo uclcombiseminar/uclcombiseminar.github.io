@@ -3,8 +3,8 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0:4000</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       
       <item>
@@ -12,8 +12,8 @@
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/12/06/patel.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/06/patel.html</guid>
+        <link>http://0.0.0.0:4000/2022/12/06/patel.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/12/06/patel.html</guid>
       </item>
       
     
@@ -23,8 +23,8 @@
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/11/29/staden.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/11/29/staden.html</guid>
+        <link>http://0.0.0.0:4000/2022/11/29/staden.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/29/staden.html</guid>
       </item>
       
     
@@ -34,8 +34,8 @@
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/11/22/liu.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/11/22/liu.html</guid>
+        <link>http://0.0.0.0:4000/2022/11/22/liu.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/22/liu.html</guid>
       </item>
       
     
@@ -45,8 +45,8 @@
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/11/15/johnston.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/11/15/johnston.html</guid>
+        <link>http://0.0.0.0:4000/2022/11/15/johnston.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/15/johnston.html</guid>
       </item>
       
     
@@ -56,8 +56,8 @@
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022/11/01/long.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/11/01/long.html</guid>
+        <link>http://0.0.0.0:4000/2022/11/01/long.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/01/long.html</guid>
       </item>
       
     
@@ -74,9 +74,9 @@ Pehova on Hamilton decompositions of dense bipartite digraphs.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Tue, 25 Oct 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/25/granet.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/25/granet.html</guid>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2022/10/25/granet.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/25/granet.html</guid>
       </item>
       
     
@@ -98,9 +98,9 @@ between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Tue, 18 Oct 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/18/ivan.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/18/ivan.html</guid>
+        <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2022/10/18/ivan.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/18/ivan.html</guid>
       </item>
       
     
@@ -113,9 +113,9 @@ between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
-        <pubDate>Tue, 11 Oct 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/11/lima.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/11/lima.html</guid>
+        <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2022/10/11/lima.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/11/lima.html</guid>
       </item>
       
     
@@ -124,12 +124,14 @@ between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
         <title>4 October 2022</title>
         <description>&lt;p&gt;I will consider selection rules that map any directed graph (without loops) to a subset of its vertices. A selection rule is impartial if the selection of a vertex is independent of its outgoing edges, and an optimal impartial rule is one that in any graph selects vertices with large degrees. The idea is that vertices and edges represent individuals and nominations among invidiuals, and we want to select highly nominated individuals without individuals having an influence on their own selection. I will discuss what is know about impartial selection and point to some open problems.&lt;/p&gt;
 
-&lt;p&gt;The talk is based on joint work with Noga Alon, Antje Bjelde, Javier Cembrano, David Hannon, Max Klimm, Ariel Procaccia, and Moshe Tennenholtz.
+&lt;p&gt;The talk is based on joint work with Noga Alon, Antje Bjelde, Javier Cembrano, David Hannon, Max Klimm, Ariel Procaccia, and Moshe Tennenholtz.&lt;/p&gt;
+
+&lt;p&gt;This talk will be at 2:30-3:30.
 &lt;!--more--&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/10/04/fischer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/04/fischer.html</guid>
+        <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2022/10/04/fischer.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/04/fischer.html</guid>
       </item>
       
     
@@ -143,9 +145,9 @@ between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
 &lt;p&gt;This talk will be held online, in &lt;a href=&quot;https://ucl.zoom.us/j/94328070777&quot;&gt;https://ucl.zoom.us/j/94328070777&lt;/a&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Sep 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/09/27/muyesser.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/09/27/muyesser.html</guid>
+        <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2022/09/27/muyesser.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2022/09/27/muyesser.html</guid>
       </item>
       
     
