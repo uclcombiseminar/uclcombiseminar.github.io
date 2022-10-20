@@ -54,7 +54,15 @@
       
       <item>
         <title>2 November 2022</title>
-        <description>&lt;p&gt;This talk will be in Foster Court Room 243.
+        <description>&lt;p&gt;In this talk I will discuss some recent work examining the extremal relationship between two well-studied graph parameters: the order of the largest homogeneous set in a graph $G$ and the maximal number of distinct degrees appearing in an induced subgraph of $G$, denoted respectively by $\mathrm{hom}(G)$ and $f(G)$.&lt;/p&gt;
+
+&lt;p&gt;Our main theorem improves estimates due to Bukh and Sudakov and to Narayanan and Tomon and shows that if $G$ is an $n$-vertex graph with $\mathrm{hom} (G)$ at least $n^{1/2}$ then $f(G) &amp;gt; ( n / \mathrm{hom} (G) )^{1 - o(1)}$. The bound here is sharp up to the $o(1)$-term, and asymptotically solves a conjecture of Narayanan and Tomon. In particular, this implies that $\max ( \mathrm{hom} (G), f(G) ) &amp;gt; n^{1/2 -o(1)}$ for any $n$-vertex graph $G$, which is also sharp.&lt;/p&gt;
+
+&lt;p&gt;The relationship between these parameters is known to change when $\mathrm{hom}(G) &amp;lt; n^{1/2}$. I hope to discuss the suspected relationship in this other region, along with supporting results.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Laurențiu Ploscaru.&lt;/p&gt;
+
+&lt;p&gt;This talk will be in Foster Court Room 243.
 &lt;!--more--&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
