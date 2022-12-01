@@ -30,6 +30,17 @@
     
       
       <item>
+        <title>24 January 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/01/24/bastide.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/24/bastide.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>5 December 2022</title>
         <description>&lt;p&gt;Classical theorems of Dirac and of Ghouila-Houri establish the minimum degree theshold that guarantees the existence of a Hamilton cycle in a graph and in a directed graph respectively. (For oriented graphs, the degree threshold was established much more recently.) By imposing suitable regularity and/or connectivity conditions on graphs, one can lower the degree threshold at which a Hamilton cycle is guaranteed to appear, and this is quite well understood in the case of graphs. Conjectures of Kuhn and Osthus and of Jackson describe the corresponding situation for directed graphs and oriented graphs respectively. I will discuss approximate solutions to these conjectures. This is based on joint work with Allan Lo and Mehmet Akif Yildiz.&lt;/p&gt;
 
@@ -139,21 +150,6 @@ between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
         <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2022/10/18/ivan.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/18/ivan.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>11 October 2022</title>
-        <description>&lt;p&gt;The focal point of this talk is the recently found connection between two completely different corners of mathematics: multiple orthogonal polynomials, an extension of standard orthogonal polynomials developed and studied by the special-functions community, and branched continued fractions, a generalisation of continued fractions arising from the combinatorics of lattice paths and introduced by the enumerative-combinatorics community to solve total-positivity problems.&lt;/p&gt;
-
-&lt;p&gt;Firstly, we revisit the classical connection between lattice paths, continued fractions, and orthogonal polynomials. Then, we discuss our ongoing research on an extension of this connection linking lattice paths, branched continued fractions, and multiple orthogonal polynomials. This work is part of a collaboration with Alan Sokal.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2022/10/11/lima.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/11/lima.html</guid>
       </item>
       
     
