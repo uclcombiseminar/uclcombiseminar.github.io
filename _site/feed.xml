@@ -30,12 +30,34 @@
     
       
       <item>
+        <title>31 January 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/01/31/katsamaktsis.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/31/katsamaktsis.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>24 January 2023</title>
         <description>&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/01/24/bastide.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/24/bastide.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>17 January 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/01/17/sgueglia.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/17/sgueglia.html</guid>
       </item>
       
     
@@ -107,49 +129,6 @@
         <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2022/11/02/long.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/02/long.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>25 October 2022</title>
-        <description>&lt;p&gt;A &lt;em&gt;regular bipartite tournament&lt;/em&gt; is an orientation of a complete
-balanced bipartite graph $K_{2n,2n}$ where every vertex has its in- and
-outdegree both equal to $n$. In 1981, Jackson conjectured that any
-regular bipartite tournament can be decomposed into Hamilton cycles. We
-prove this conjecture for sufficiently large $n$. Along the way, we also
-prove several further results, including a conjecture of Liebenau and
-Pehova on Hamilton decompositions of dense bipartite digraphs.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2022/10/25/granet.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/25/granet.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>18 October 2022</title>
-        <description>&lt;p&gt;A factorisation $x = u_1u_2\ldots$ of an infinite word $x$ on alphabet $X$ is called ‘super-monochromatic’, for a given colouring of the finite
-words $X^∗$ on alphabet $X$, if each word $u_{k_1} u_{k_2} \ldots u_{k_n}$, where $k_1 &amp;lt; · · · &amp;lt; k_n$,
-is the same colour. A direct application of Hindman’s theorem shows that
-if $x$ is eventually periodic, then for every finite colouring of $X^∗$, there exist a suffix of $x$ that admits a super-monochromatic factorisation. What
-about the converse?
-In this talk we show that the converse does indeed hold: thus a word $x$ is eventually periodic if and only if for every finite colouring of $X^∗$
-there is a suffix of $x$ having a super-monochromatic factorisation. This
-has been a conjecture in the community for some time. Our main tool
-is a Ramsey result about alternating sums. This provides a strong link
-between Ramsey theory and the combinatorics of infinite words.&lt;/p&gt;
-
-&lt;p&gt;Joint work with Imre Leader and Luca Q. Zamboni&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2022/10/18/ivan.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2022/10/18/ivan.html</guid>
       </item>
       
     
