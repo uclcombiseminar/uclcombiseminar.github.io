@@ -75,7 +75,12 @@
       
       <item>
         <title>17 January 2023</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;We study the model of randomly perturbed dense graphs, which is the union of any $n$-vertex graph $G_{\alpha}$ with minimum degree at least $\alpha n$ and the binomial random graph $G(n,p)$.
+In this talk, we discuss questions on the containment of various spanning structures, and we offer several new sharp and stability results. We also point out a number of interesting questions that remain open.&lt;/p&gt;
+
+&lt;p&gt;This is joint work with Julia Böttcher, Olaf Parczyk, and Jozef Skokan.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/01/17/sgueglia.html</link>
