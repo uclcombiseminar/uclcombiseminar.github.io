@@ -19,6 +19,17 @@
     
       
       <item>
+        <title>14 March 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/03/14/gupta.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/03/14/gupta.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>7 March 2023</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -36,6 +47,17 @@
         <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/02/28/pavez-signe.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/02/28/pavez-signe.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>21 February 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/02/21/janzer.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/02/21/janzer.html</guid>
       </item>
       
     
@@ -99,32 +121,6 @@ In this talk, we discuss questions on the containment of various spanning struct
         <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2022/12/06/patel.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2022/12/06/patel.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>29 November 2022</title>
-        <description>&lt;p&gt;Given a small graph $F$, what is the maximum number of induced copies of $F$ that an $n$-vertex graph can contain, and what does a graph with many copies look like? This is the inducibility problem introduced by Pippenger and Golumbic in 1975, which is still wide open for most $F$. I will give a survey of the area and will mention some of the latest results, including joint work with Hong Liu, Oleg Pikhurko and Maryam Sharifzadeh.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2022/11/29/staden.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/29/staden.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>22 November 2022</title>
-        <description>&lt;p&gt;Let us call a graph/hypergraph $G$ extremal if there exists a finite family $F$ such that $G$ is an $F$-free graph with the maximum number of edges. The classical Erdős–Stone-Simonovitsz theorem implies that Turan graphs approximate all extremal graphs in edit distance. This talk is an invitation to its analogue in the hypergraph setting: what hypergraphs can approximate all extremal hypergraphs? I’ll mention some related results.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2022/11/22/liu.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2022/11/22/liu.html</guid>
       </item>
       
     
