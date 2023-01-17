@@ -86,7 +86,19 @@
       
       <item>
         <title>24 January 2023</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;How fast can you reconstruct a network using a ping-pong protocol?
+Distance query reconstruction is a setting where we assume an unknown
+simple and connected graph, and we try to recover the graph only using
+queries of distance between pairs of vertices. In this talk we extend a
+result by Kannan, Mathieu, and Zhou in the probabilistic settings,
+creating a deterministic algorithm for chordal graphs or a
+randomized algorithm able to reconstruct graphs of bounded
+treelength with a quasi-linear number of queries in expectation. In
+particular, graphs of bounded treelength contain various graph classes of
+interest such as k-chordal graphs, permutation graphs and AT-free
+graphs. This talk is based on a joint work with Carla Groenland.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/01/24/bastide.html</link>
