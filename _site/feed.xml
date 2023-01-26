@@ -75,7 +75,9 @@
       
       <item>
         <title>31 January 2023</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;Let $G$ be a graph of order $n$ with linear minimum degree, and suppose we `perturbe’ $G$ by adding the edges of the binomial random graph on the same vertex set. It is well known that if the random graph has edge probability at least $C/n$ for some constant C, then with high probability the perturbed graph is Hamiltonian. We show that if each edge of the perturbed graph gets a colour independently and uniformly at random from a set of size $n$, then with high probability the perturbed graph has a rainbow Hamilton cycle, i.e. one with each edge having a different colour. This is joint work with Shoham Letzter.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/01/31/katsamaktsis.html</link>
