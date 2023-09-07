@@ -8,8 +8,101 @@
     
       
       <item>
-        <title>21 March 2023</title>
+        <title>4 December 2023</title>
         <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/12/04/kronenberg.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/12/04/kronenberg.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>13 November 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/11/13/pehova.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/11/13/pehova.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>30 October 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/10/30/portier.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/10/30/portier.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>23 October 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/10/23/janzer.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/10/23/janzer.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>16 October 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/10/16/krivelevich.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/10/16/krivelevich.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>16 May 2023</title>
+        <description>&lt;p&gt;The theory of rapid mixing random walks plays a fundamental role in the study of modern randomised algorithms. Usually, the mixing time is measured with respect to the worst initial position. It is well known that the presence of bottlenecks in a graph hampers mixing and, in particular, starting inside a small bottleneck significantly slows down the diffusion of the walk in the first steps of the process. To circumvent this problem, the average mixing time is defined to be the mixing time starting at a uniformly random vertex.&lt;/p&gt;
+
+&lt;p&gt;In this talk we discuss a general framework to show logarithmic average mixing time for random walks on graphs with small bottlenecks. The framework is especially effective on certain families of random graphs with heterogeneous properties. We demonstrate its applicability on two random models for which the mixing time was known to be of order $\log^2n$, speeding up the mixing to order $\log n$. First, in the context of smoothed analysis on connected graphs, we show logarithmic average mixing time for randomly perturbed graphs of bounded degeneracy. A particular instance is the Newman-Watts small-world model. Second, we show logarithmic average mixing time for supercritically percolated expander graphs. When the host graph is complete, this application gives an alternative proof that the average mixing time of the giant component in the supercritical Erdős-Rényi graph is logarithmic.&lt;/p&gt;
+
+&lt;p&gt;This represents joint work with Alberto Espuny Díaz, Guillem Perarnau and Oriol Serra.&lt;/p&gt;
+
+&lt;p&gt;This talk will be in 25 Gordon Street, Room 500.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/05/16/morris.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/05/16/morris.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>9 May 2023</title>
+        <description>&lt;p&gt;Let $p$ be a prime integer, let $1 \le t &amp;lt; d &amp;lt; p$ be integers, and let $S$ be a non-empty subset of $\mathbb{F}_p$ (which may be thought of as being {$0,1$}). We will establish that if a polynomial $P:\mathbb{F}_p^n \to \mathbb{F}_p$ with degree $d$ is such that the image $P(S^n)$ does not contain the full image $A(\mathbb{F}_p)$ of any non-constant polynomial $A: \mathbb{F}_p \to \mathbb{F}_p$ with degree at most $t$, then $P$ coincides on $S^n$ with a polynomial $Q$ that can be decomposed as a sum of a bounded number of polynomials which each have degree at most $d$ and are products of polynomials that have degrees at most $\lfloor d/(t+1) \rfloor$. In particular the polynomial $Q$ has bounded degree-$\lfloor d/(t+1) \rfloor$-rank in the sense of Green and Tao. Likewise, we will prove that if the assumption holds even for $t=d$ then $P$ coincides on $S^n$ with a polynomial with degree at most $d$ and depending only on a bounded number of variables.&lt;/p&gt;
+
+&lt;p&gt;This talk will be in 25 Gordon Street, Room 500.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/05/09/karam.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/05/09/karam.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>21 March 2023</title>
+        <description>&lt;p&gt;A subset $A$ of a group is said to be product free if for all elements $a,b$ in $A$ their product $ab$ is not in $A$. In 1985 Babai and Sós posed the problem of determining the largest product free sets in the alternating group. We solve this problem completely when $n$ is sufficiently large.&lt;/p&gt;
+
+&lt;p&gt;Our proof combines representation theory with a recent machinery we developed called `hypercontractvity for global functions’.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/03/21/lifshitz.html</link>
@@ -20,7 +113,8 @@
       
       <item>
         <title>14 March 2023</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;Abstract: In the euclidean space setting, symmetrization inequalities have been quite useful in solving problems coming from various parts of analysis: spectral geometry, variational problems, mathematical physics, spectral theory, to name a few. This theory is very classical and a lot is known in the continuum. In my talk, I will discuss about discrete analogues of these inequalities on graphs. This is a fairly new topic, and there is hardly anything known in this setting. I will talk about recent developments that has happened in the last one year, connections of this theory with different types of isoperimetric inequalities on graphs. Apart from general theory, I will present some concrete results for standard graph on $2d$ integer lattices. The talk will be at the interface of discrete math and analysis, and will be  based on a joint work with Stefan Steinerberger: &lt;a href=&quot;https://www.arXiv.org/abs/2212.07590&quot;&gt; arXiv:2212.07590&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/03/14/gupta.html</link>
@@ -31,113 +125,15 @@
       
       <item>
         <title>7 March 2023</title>
-        <description>&lt;!--more--&gt;
+        <description>&lt;p&gt;We consider tuples of $n$ sided dice drawn from either the multiset or balanced sequence model. Relying on Fourier based methods, we prove that the natural tournament associated to $n$ sided die converges to a limit tournamenton which while highly non-quasirandom exhibits numerous symmetries. The limit tournamenton is naturally related to the spectrum of a certain skew-symmetric operator (e.g. a kernel). Our results answer a pair of questions of Conrey, Gabbard, Grant, Liu, and Morrison in the multiset model and substantially extend (and sharpen) recent works of Polymath and Cornacchia and Hązła which considered the balanced sequence model (and a continuous analog). The focus of the talk will be on local limit methods, associated heuristics, and when they may be useful in combinatorial settings.&lt;/p&gt;
+
+&lt;p&gt;Joint w. Ashwin Sah&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/03/07/sawhney.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/03/07/sawhney.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>28 February 2023</title>
-        <description>&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/02/28/pavez-signe.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/02/28/pavez-signe.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>21 February 2023</title>
-        <description>&lt;p&gt;Assume that we have a deck of $n$ cards, and we try to shuffle it using random swaps – that is, we perform a sequence of moves in which we swap two cards in given positions with given probabilities. How many such swaps are needed to make sure that the end position of every single card is uniformly distributed? And if we want to make sure that the position of any pair is uniformly distributed? And what happens if we only want to make sure that the two jokers (starting at the top of the deck) can end up in all position-pairs, with uniform probabilities? I will talk about these problems and some related questions. Joint work with Robert Johnson and Imre Leader.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/02/21/janzer.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/02/21/janzer.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>7 February 2023</title>
-        <description>&lt;p&gt;The Helly number of a set in the plane is the smallest $N$ such that the following is true. If any $N$ members of a finite family of convex sets contains a point of $S$, then there is a point of $S$ which is contained in all members of the family. An exponential lattice with base $x$ consists of points whose coordinates are positive integer powers of $x$. We prove lower and upper bounds on Helly numbers of exponential lattices in terms of $x$, and we determine their values exactly in some cases. We also consider asymmetric exponential lattices, and characterise those that have finite Helly numbers. Joint work with Gergely Ambrus, Martin Balko, Attila Jung and Márton Naszódi.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/02/07/frankl.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/02/07/frankl.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>31 January 2023</title>
-        <description>&lt;p&gt;Let $G$ be a graph of order $n$ with linear minimum degree, and suppose we `perturbe’ $G$ by adding the edges of the binomial random graph on the same vertex set. It is well known that if the random graph has edge probability at least $C/n$ for some constant C, then with high probability the perturbed graph is Hamiltonian. We show that if each edge of the perturbed graph gets a colour independently and uniformly at random from a set of size $n$, then with high probability the perturbed graph has a rainbow Hamilton cycle, i.e. one with each edge having a different colour. This is joint work with Shoham Letzter.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/01/31/katsamaktsis.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/31/katsamaktsis.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>24 January 2023</title>
-        <description>&lt;p&gt;How fast can you reconstruct a network using a ping-pong protocol?
-Distance query reconstruction is a setting where we assume an unknown
-simple and connected graph, and we try to recover the graph only using
-queries of distance between pairs of vertices. In this talk we extend a
-result by Kannan, Mathieu, and Zhou in the probabilistic settings,
-creating a deterministic algorithm for chordal graphs or a
-randomized algorithm able to reconstruct graphs of bounded
-treelength with a quasi-linear number of queries in expectation. In
-particular, graphs of bounded treelength contain various graph classes of
-interest such as k-chordal graphs, permutation graphs and AT-free
-graphs. This talk is based on a joint work with Carla Groenland.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/01/24/bastide.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/24/bastide.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>17 January 2023</title>
-        <description>&lt;p&gt;We study the model of randomly perturbed dense graphs, which is the union of any $n$-vertex graph $G_{\alpha}$ with minimum degree at least $\alpha n$ and the binomial random graph $G(n,p)$.
-In this talk, we discuss questions on the containment of various spanning structures, and we offer several new sharp and stability results. We also point out a number of interesting questions that remain open.&lt;/p&gt;
-
-&lt;p&gt;This is joint work with Julia Böttcher, Olaf Parczyk, and Jozef Skokan.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/01/17/sgueglia.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/17/sgueglia.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>5 December 2022</title>
-        <description>&lt;p&gt;Classical theorems of Dirac and of Ghouila-Houri establish the minimum degree theshold that guarantees the existence of a Hamilton cycle in a graph and in a directed graph respectively. (For oriented graphs, the degree threshold was established much more recently.) By imposing suitable regularity and/or connectivity conditions on graphs, one can lower the degree threshold at which a Hamilton cycle is guaranteed to appear, and this is quite well understood in the case of graphs. Conjectures of Kuhn and Osthus and of Jackson describe the corresponding situation for directed graphs and oriented graphs respectively. I will discuss approximate solutions to these conjectures. This is based on joint work with Allan Lo and Mehmet Akif Yildiz.&lt;/p&gt;
-
-&lt;p&gt;This talk will be in Gordon Square (26) Room B32.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2022/12/06/patel.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2022/12/06/patel.html</guid>
       </item>
       
     
