@@ -19,6 +19,17 @@
     
       
       <item>
+        <title>20 November 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/11/20/bowen.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/11/20/bowen.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>13 November 2023</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -119,21 +130,6 @@
         <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/03/14/gupta.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/03/14/gupta.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>7 March 2023</title>
-        <description>&lt;p&gt;We consider tuples of $n$ sided dice drawn from either the multiset or balanced sequence model. Relying on Fourier based methods, we prove that the natural tournament associated to $n$ sided die converges to a limit tournamenton which while highly non-quasirandom exhibits numerous symmetries. The limit tournamenton is naturally related to the spectrum of a certain skew-symmetric operator (e.g. a kernel). Our results answer a pair of questions of Conrey, Gabbard, Grant, Liu, and Morrison in the multiset model and substantially extend (and sharpen) recent works of Polymath and Cornacchia and Hązła which considered the balanced sequence model (and a continuous analog). The focus of the talk will be on local limit methods, associated heuristics, and when they may be useful in combinatorial settings.&lt;/p&gt;
-
-&lt;p&gt;Joint w. Ashwin Sah&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/03/07/sawhney.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/03/07/sawhney.html</guid>
       </item>
       
     
