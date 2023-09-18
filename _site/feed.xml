@@ -8,6 +8,17 @@
     
       
       <item>
+        <title>11 December 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/12/11/dhawan.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/12/11/dhawan.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>4 December 2023</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -110,21 +121,6 @@
         <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/05/16/morris.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/05/16/morris.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>9 May 2023</title>
-        <description>&lt;p&gt;Let $p$ be a prime integer, let $1 \le t &amp;lt; d &amp;lt; p$ be integers, and let $S$ be a non-empty subset of $\mathbb{F}_p$ (which may be thought of as being {$0,1$}). We will establish that if a polynomial $P:\mathbb{F}_p^n \to \mathbb{F}_p$ with degree $d$ is such that the image $P(S^n)$ does not contain the full image $A(\mathbb{F}_p)$ of any non-constant polynomial $A: \mathbb{F}_p \to \mathbb{F}_p$ with degree at most $t$, then $P$ coincides on $S^n$ with a polynomial $Q$ that can be decomposed as a sum of a bounded number of polynomials which each have degree at most $d$ and are products of polynomials that have degrees at most $\lfloor d/(t+1) \rfloor$. In particular the polynomial $Q$ has bounded degree-$\lfloor d/(t+1) \rfloor$-rank in the sense of Green and Tao. Likewise, we will prove that if the assumption holds even for $t=d$ then $P$ coincides on $S^n$ with a polynomial with degree at most $d$ and depending only on a bounded number of variables.&lt;/p&gt;
-
-&lt;p&gt;This talk will be in 25 Gordon Street, Room 500.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/05/09/karam.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/05/09/karam.html</guid>
       </item>
       
     
