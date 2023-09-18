@@ -30,6 +30,17 @@
     
       
       <item>
+        <title>27 November 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/11/27/michaeli.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/11/27/michaeli.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>20 November 2023</title>
         <description>&lt;!--more--&gt;
 </description>
@@ -102,25 +113,6 @@
         <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/10/02/calbet-ripodas.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/10/02/calbet-ripodas.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>16 May 2023</title>
-        <description>&lt;p&gt;The theory of rapid mixing random walks plays a fundamental role in the study of modern randomised algorithms. Usually, the mixing time is measured with respect to the worst initial position. It is well known that the presence of bottlenecks in a graph hampers mixing and, in particular, starting inside a small bottleneck significantly slows down the diffusion of the walk in the first steps of the process. To circumvent this problem, the average mixing time is defined to be the mixing time starting at a uniformly random vertex.&lt;/p&gt;
-
-&lt;p&gt;In this talk we discuss a general framework to show logarithmic average mixing time for random walks on graphs with small bottlenecks. The framework is especially effective on certain families of random graphs with heterogeneous properties. We demonstrate its applicability on two random models for which the mixing time was known to be of order $\log^2n$, speeding up the mixing to order $\log n$. First, in the context of smoothed analysis on connected graphs, we show logarithmic average mixing time for randomly perturbed graphs of bounded degeneracy. A particular instance is the Newman-Watts small-world model. Second, we show logarithmic average mixing time for supercritically percolated expander graphs. When the host graph is complete, this application gives an alternative proof that the average mixing time of the giant component in the supercritical Erdős-Rényi graph is logarithmic.&lt;/p&gt;
-
-&lt;p&gt;This represents joint work with Alberto Espuny Díaz, Guillem Perarnau and Oriol Serra.&lt;/p&gt;
-
-&lt;p&gt;This talk will be in 25 Gordon Street, Room 500.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/05/16/morris.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/05/16/morris.html</guid>
       </item>
       
     
