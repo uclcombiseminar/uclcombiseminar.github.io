@@ -85,6 +85,17 @@
     
       
       <item>
+        <title>2 October 2023</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2023/10/02/calbet-ripodas.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2023/10/02/calbet-ripodas.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>16 May 2023</title>
         <description>&lt;p&gt;The theory of rapid mixing random walks plays a fundamental role in the study of modern randomised algorithms. Usually, the mixing time is measured with respect to the worst initial position. It is well known that the presence of bottlenecks in a graph hampers mixing and, in particular, starting inside a small bottleneck significantly slows down the diffusion of the walk in the first steps of the process. To circumvent this problem, the average mixing time is defined to be the mixing time starting at a uniformly random vertex.&lt;/p&gt;
 
@@ -114,21 +125,6 @@
         <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2023/05/09/karam.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2023/05/09/karam.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>21 March 2023</title>
-        <description>&lt;p&gt;A subset $A$ of a group is said to be product free if for all elements $a,b$ in $A$ their product $ab$ is not in $A$. In 1985 Babai and Sós posed the problem of determining the largest product free sets in the alternating group. We solve this problem completely when $n$ is sufficiently large.&lt;/p&gt;
-
-&lt;p&gt;Our proof combines representation theory with a recent machinery we developed called `hypercontractvity for global functions’.&lt;/p&gt;
-
-&lt;!--more--&gt;
-</description>
-        <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2023/03/21/lifshitz.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/03/21/lifshitz.html</guid>
       </item>
       
     
