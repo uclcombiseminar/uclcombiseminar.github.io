@@ -5,4 +5,6 @@ To use docker to avoid explicit installation of jekyll
   		  -  docker-compose build (once per device)
 		  -  docker-compose up 
 
-to view in browser: http://0.0.0.0:4000/
+To view in browser: http://0.0.0.0:4000/
+
+To change text at top left (for time and place), edit _includes/navigation.html

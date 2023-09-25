@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 ---
 
 
+This talk will be in Foster Court room 114.
 
 
 <!--more-->
