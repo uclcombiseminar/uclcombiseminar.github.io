@@ -112,7 +112,26 @@
       
       <item>
         <title>16 October 2023</title>
-        <description>&lt;p&gt;This talk will be in Foster Court room 114.&lt;/p&gt;
+        <description>&lt;p&gt;Let $G$ be a graph on $n$ vertices, and assume that its minimum degree is at least $k$, or its independence number is at most $t$. What can be said then about various graph-theoretic parameters of $G$, such as connectivity, large minors and subdivisions, diameter, etc.? Trivial extremal examples (disjoint cliques, unbalanced complete bipartite graphs, random graphs and their disjoint unions) supply rather prosaic bounds for these questions.&lt;/p&gt;
+
+&lt;p&gt;We show that the situation is bound to change dramatically if one adds relatively few random edges on top of $G$ (the so called randomly perturbed graph model, launched in a paper by Bohman, Frieze and Martin from 2003). Here are representative results, in a somewhat approximate form:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;– Assuming $\delta(G) \ge k$, and for $s&amp;lt;ck$, adding about $Cns \cdot \log (n/k)/k$ random edges to $G$ results with high probability in an $s$-connected graph;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;– Assuming $\alpha(G) \le t$ and adding $cn$ random edges to $G$ typically produces a graph containing a minor of a graph of average degree of order $n/\sqrt{t}$.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this talk I will introduce and discuss the model of randomly perturbed graphs, and will present our results.&lt;/p&gt;
+
+&lt;p&gt;A joint work with Elad Aigner-Horev and Dan Hefetz.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This talk will be in Foster Court room 114.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
