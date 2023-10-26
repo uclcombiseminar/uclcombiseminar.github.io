@@ -3,7 +3,7 @@ layout: post
 speaker: Richard Montgomery
 speaker-url: http://web.mat.bham.ac.uk/R.H.Montgomery/
 speaker-uni: Birmingham
-title: 7 February 2021
+title: 7 February 2022
 subtitle: On the Ryser-Brualdi-Stein Conjecture
 
 excerpt_separator: <!--more-->
