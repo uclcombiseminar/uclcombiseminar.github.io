@@ -35,7 +35,13 @@
       
       <item>
         <title>27 November 2023</title>
-        <description>&lt;p&gt;This talk will be in Bedford Way (20) room 780.&lt;/p&gt;
+        <description>&lt;p&gt;A graph is called $d$-rigid if there exists an embedding of its vertex set into $\mathbb{R}^d$ such that every continuous motion of the vertices that preserves the lengths of all edges actually preserves the distances between all pairs of vertices. In this talk, I will present new sufficient conditions for the $d$-rigidity of a graph in terms of the existence of “rigid partitions” - partitions of the graph that satisfy certain connectivity properties. Following this, I will outline several broadly applicable conditions for the existence of rigid partitions and discuss a few applications, among which are new results on the rigidity of highly-connected, (pseudo)random graphs, and dense graphs. In particular, I will show that $Cd^2\log^2(n)$-connected $n$-vertex graphs are $d$-rigid, a result that can be viewed as a step towards the Lovász-Yemini conjecture, which states that $Cd^2$-connected graphs are $d$-rigid.&lt;/p&gt;
+
+&lt;p&gt;The talk is based on joint work with Michael Krivelevich and Alan Lew.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This talk will be in Bedford Way (20) room 780.&lt;/p&gt;
 
 &lt;!--more--&gt;
 </description>
