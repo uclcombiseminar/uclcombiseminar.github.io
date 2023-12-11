@@ -8,3 +8,4 @@ To use docker to avoid explicit installation of jekyll
 To view in browser: http://0.0.0.0:4000/
 
 To change text at top left (for time and place), edit _includes/navigation.html
+Details of talks are in _post folder, note the naming scheme
