@@ -2,7 +2,7 @@
 title: UCL Combinatorics seminar
 ---
 
-The University College London (UCL) Combinatorics Seminar takes place weekly on Monday, from 4pm to 5pm, at 20 Bedford Way (IOE Bulding) Room W4.01. It is organised by [Amedeo Sgueglia](https://www.homepages.ucl.ac.uk/~ucahasg/). 
+The University College London (UCL) Combinatorics Seminar takes place weekly on Monday, from 4pm to 5pm, in Cruciform building Room B.1.03. It is organised by [Amedeo Sgueglia](https://www.homepages.ucl.ac.uk/~ucahasg/). 
 
 To subscribe to the mailing list, please email Amedeo Sgueglia at a [dot] sgueglia [at] ucl [dot] ac [dot] uk.
 
