@@ -14,6 +14,6 @@ we prove a Brunn-Minkowski type inequality conjectured
 by Ruzsa asserting the following. 
 For all $\epsilon>0$, there exists $n$ so that given sets 
 of integers A and B so that B is not contained efficiently 
-in n generalised arithmetic progressions of dimension (d-1), 
+in $n$ generalised arithmetic progressions of dimension $(d-1)$, 
 then $|A+B|^{1/d}> |A|^{1/d} + (1-\epsilon)|B|^{1/d}$.
 <!--more-->
