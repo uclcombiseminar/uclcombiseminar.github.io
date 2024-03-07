@@ -2,7 +2,7 @@
 layout: post
 speaker: Peter van Hintum
 speaker-url: https://sites.google.com/view/petervanhintum
-speaker-uni: Oxford
+speaker-uni: University of Oxford
 title: 25 March 2024
 subtitle: Locality in sumsets and Ruzsa’s discrete Brunn-Minkowski inequality
 excerpt_separator: <!--more-->
