@@ -7,7 +7,7 @@ title: 25 March 2024
 subtitle: Locality in sumsets and Ruzsa’s discrete Brunn-Minkowski inequality
 excerpt_separator: <!--more-->
 ---
-We explore higher dimensional additive phenomena 
+We explore higher dimensional additive phenomena   
 in the integers proving optimal bounds in Freiman type results. 
 As a quick consequence of the technical framework 
 we prove a Brunn-Minkowski type inequality conjectured 
