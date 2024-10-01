@@ -1,0 +1,169 @@
+<!doctype html>
+<html>
+  <head>
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="UCL Combinatorics Seminar webpage"
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="" />
+<link rel="icon" sizes="96x96" href="/assets/images/icon.svg" />
+<link rel="icon" sizes="32x32" href="/assets/images/icon.svg" />
+<link rel="icon" sizes="16x16" href="/assets/images/icon.svg" />
+
+<!-- Social sharing info -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="5 February 2024">
+<meta property="og:site_name" content="UCL Combinatorics seminar webpage">
+<meta property="og:url" content="http://0.0.0.0:4000/2024/02/05/zhukovskii.html">
+<!-- If blog post designates header image, use it. Otherwise, use site logo. -->
+<meta property="og:image" content="">
+<meta property="og:description" content="UCL Combinatorics Seminar">
+<meta property="fb:app_id" content=""/>
+
+<title>5 February 2024 | UCL Combinatorics Seminar</title>
+
+<!-- FONTS AND STYLESHEETS -->
+<link rel="stylesheet" href="https://use.typekit.net/fol4uvq.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+<link rel="stylesheet" href="/assets/css/styles.css">
+
+<!-- STOPS TRANSITIONS FROM FIRING ON PAGE LOAD -->
+<script>
+  $(document).ready(function() {
+    $("body").removeClass("preload");
+  });
+</script>
+
+    <link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" /> <!-- Make RSS feed work (jekyll-feed plugin) -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>5 February 2024</title>
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="5 February 2024" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="We prove that the family of largest cuts in the binomial random graph exhibits the following stability property: with high probability, there is a set of $(1-o(1))n$ vertices that is partitioned in the same manner by all maximum cuts. We also show some applications of this property - in particular, to the validity of Simonovits’s property in binomial random graphs. Recall that a graph is $H$-Simonovits, if each of its largest $H$-free subgraphs is $(\chi(H)−1)$-partite. The talk is based on joint work with Ilay Hoshen and Wojciech Samotij" />
+<meta property="og:description" content="We prove that the family of largest cuts in the binomial random graph exhibits the following stability property: with high probability, there is a set of $(1-o(1))n$ vertices that is partitioned in the same manner by all maximum cuts. We also show some applications of this property - in particular, to the validity of Simonovits’s property in binomial random graphs. Recall that a graph is $H$-Simonovits, if each of its largest $H$-free subgraphs is $(\chi(H)−1)$-partite. The talk is based on joint work with Ilay Hoshen and Wojciech Samotij" />
+<link rel="canonical" href="http://0.0.0.0:4000/2024/02/05/zhukovskii.html" />
+<meta property="og:url" content="http://0.0.0.0:4000/2024/02/05/zhukovskii.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-02-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="5 February 2024" />
+<script type="application/ld+json">
+{"headline":"5 February 2024","dateModified":"2024-02-05T00:00:00+00:00","datePublished":"2024-02-05T00:00:00+00:00","url":"http://0.0.0.0:4000/2024/02/05/zhukovskii.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:4000/2024/02/05/zhukovskii.html"},"@type":"BlogPosting","description":"We prove that the family of largest cuts in the binomial random graph exhibits the following stability property: with high probability, there is a set of $(1-o(1))n$ vertices that is partitioned in the same manner by all maximum cuts. We also show some applications of this property - in particular, to the validity of Simonovits’s property in binomial random graphs. Recall that a graph is $H$-Simonovits, if each of its largest $H$-free subgraphs is $(\\chi(H)−1)$-partite. The talk is based on joint work with Ilay Hoshen and Wojciech Samotij","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+       <!-- Make SEO plugin work, despite not knowing what an SEO is -->
+
+    <!-- SAGE stuff. Shamelessly stolen from
+      https://github.com/sheaves/sheaves.github.io/blob/master/_layouts/default.html
+    -->
+    <script src="https://sagecell.sagemath.org/static/jquery.min.js"></script>
+    <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+    <!-- Cell definitions -->
+    <script>$(function () {
+    // Basic Python cell. Use <div class = "python">
+    sagecell.makeSagecell({inputLocation: '.python', languages : ['python']});
+    // Basic Sage cell. Use <div class = "sage">
+    sagecell.makeSagecell({inputLocation: '.sage'});
+    // Gap cell. Use <div class = "gap">
+    sagecell.makeSagecell({inputLocation: '.gap', languages : ['gap']});
+    // Auto evaluate Sage. Use <div class="auto">
+    sagecell.makeSagecell({inputLocation: '.auto', autoeval: 'True'});
+    // No editor, auto evaluate Sage. Use <div class="auto_out">
+    sagecell.makeSagecell({inputLocation: '.auto_out', autoeval: 'True', hide: ["editor", "evalButton", "editorToggle"]});
+   // No evalButton. Use <div class="no_eval">
+    sagecell.makeSagecell({inputLocation: '.no_eval', hide: ["evalButton", "editorToggle"]});
+   // No output. Use <div class="no_out">
+    sagecell.makeSagecell({inputLocation: '.no_out', hide: ["evalButton", "editorToggle","output"]});
+    // Only the 'Go!' button; no input displayed. Use <div class="go">
+    sagecell.makeSagecell({inputLocation:  '.go', autoeval: 'True',
+                       template:       sagecell.templates.minimal,
+                       evalButtonText: 'Go!'});
+    // Linked Sage cell. Use <div class ="linked">
+    sagecell.makeSagecell({inputLocation: '.linked', linked: 'True'});
+    // Linked Sage cell with autoeval. Use <div class ="linked_auto">
+    sagecell.makeSagecell({inputLocation: '.linked_auto', linked: 'True', autoeval: 'True'});
+    // All languages. Use <div class = "all">
+        sagecell.makeSagecell({inputLocation: '.all', languages: sagecell.allLanguages});
+    });
+    </script>
+    <!-- Basic Sage -->
+    <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+  </head>
+  <body>
+    <!--Hidden skip to main content link for ADA compliance-->
+    <a href="#main-content" class="skip-main">Skip to main content</a>
+
+    <nav>
+  <section class="info">
+    <a href="/" aria-label="links home">
+      <img src="/assets/images/icon.svg" alt="Site logo"/>
+    </a>
+    <section class="title">
+      <a href="/">
+        <h1>UCL Combinatorics Seminar</h1>
+      </a>
+      <p>Monday 4pm-5pm</p>
+    </section>
+  </section>
+
+  <!-- Mobile nav -->
+  <div id="mobile-nav" onclick="openNav()">
+    <i class="fas fa-bars"></i>
+  </div>
+
+  <section id="mySidenav" class="main-links">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    
+    <a href="/pasttalks" >
+      Past Talks
+    </a>
+    
+    <a href="/upcomingtalks" >
+      Upcoming Talks
+    </a>
+    
+    <a href="/" >
+      Home
+    </a>
+    
+  </section>
+</nav>
+
+
+    <!--Skip to main content jumps to here-->
+    <a name="main-content" tabindex="-1"></a>
+
+    <main>
+      <div class="post">
+  <h1>5 February 2024</h1>
+  <h3>
+  05 Feb 2024 
+  
+  
+  </h3>
+
+  <p>We prove that the family of largest cuts in the binomial random graph 
+exhibits the following stability property: with high probability, 
+there is a set of $(1-o(1))n$ vertices that is partitioned in the 
+same manner by all maximum cuts. We also show some applications of this property - in particular, to the validity of Simonovits’s property in binomial random graphs. 
+Recall that a graph is $H$-Simonovits, if each of its largest $H$-free subgraphs is $(\chi(H)−1)$-partite.</p>
+
+<p>The talk is based on joint work with Ilay Hoshen and Wojciech Samotij
+<!--more--></p>
+
+</div>
+
+
+    </main>
+    <footer>
+  <p>Many thanks to Chris Grossack and Remy Davison for the website template.</p>
+</footer>
+
+    <script src="../../../assets/js/mobile-nav.js"></script>
+
+  </body>
+</html>
