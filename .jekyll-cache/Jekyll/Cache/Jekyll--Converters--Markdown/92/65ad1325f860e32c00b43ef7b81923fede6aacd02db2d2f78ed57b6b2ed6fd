@@ -1,0 +1,14 @@
+I"�<p>A factorisation $x = u_1u_2\ldots$ of an infinite word $x$ on alphabet $X$ is called ‘super-monochromatic’, for a given colouring of the finite
+words $X^∗$ on alphabet $X$, if each word $u_{k_1} u_{k_2} \ldots u_{k_n}$, where $k_1 &lt; · · · &lt; k_n$,
+is the same colour. A direct application of Hindman’s theorem shows that
+if $x$ is eventually periodic, then for every finite colouring of $X^∗$, there exist a suffix of $x$ that admits a super-monochromatic factorisation. What
+about the converse?
+In this talk we show that the converse does indeed hold: thus a word $x$ is eventually periodic if and only if for every finite colouring of $X^∗$
+there is a suffix of $x$ having a super-monochromatic factorisation. This
+has been a conjecture in the community for some time. Our main tool
+is a Ramsey result about alternating sums. This provides a strong link
+between Ramsey theory and the combinatorics of infinite words.</p>
+
+<p>Joint work with Imre Leader and Luca Q. Zamboni</p>
+
+:ET

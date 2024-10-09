@@ -8,6 +8,18 @@
     
       
       <item>
+        <title>14th October 2024</title>
+        <description>&lt;p&gt;It is fairly easy to prove that every finite poset can be viewed as a subposet of $(2^{[N]},\subseteq)$ for sufficiently large $N$. The width of such a subposet is the size of its largest empty subposet. Clearly, sets of equal size in $2^{[N]}$ are incomparable, thus forming an empty subposet. In other words, layers are antichains. We demonstrate how a certain symmetry of the subposet is conducive to showing that its maximal antichain is the largest layer.
+&lt;!--more--&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/10/14/kada-williams.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/10/14/kada-williams.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>20 May 2024</title>
         <description>&lt;p&gt;Given a $k$-uniform hypergraph $H$ and an $r$-colouring of its edges, 
 we look for a minimum $l$-degree condition that guarantees the existence 
@@ -174,24 +186,6 @@ progress in the area and then present some new results.
         <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2024/02/19/lang.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2024/02/19/lang.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>5 February 2024</title>
-        <description>&lt;p&gt;We prove that the family of largest cuts in the binomial random graph 
-exhibits the following stability property: with high probability, 
-there is a set of $(1-o(1))n$ vertices that is partitioned in the 
-same manner by all maximum cuts. We also show some applications of this property - in particular, to the validity of Simonovits’s property in binomial random graphs. 
-Recall that a graph is $H$-Simonovits, if each of its largest $H$-free subgraphs is $(\chi(H)−1)$-partite.&lt;/p&gt;
-
-&lt;p&gt;The talk is based on joint work with Ilay Hoshen and Wojciech Samotij
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/02/05/zhukovskii.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/02/05/zhukovskii.html</guid>
       </item>
       
     

@@ -1,0 +1,5 @@
+I"�<p>A subset $A$ of a group is said to be product free if for all elements $a,b$ in $A$ their product $ab$ is not in $A$. In 1985 Babai and Sós posed the problem of determining the largest product free sets in the alternating group. We solve this problem completely when $n$ is sufficiently large.</p>
+
+<p>Our proof combines representation theory with a recent machinery we developed called `hypercontractvity for global functions’.</p>
+
+:ET
