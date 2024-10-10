@@ -1,5 +1,5 @@
 ---
-title: UCL Combinatorics seminar
+title: UCL Combinatorics Seminar
 ---
 
 The University College London (UCL) Combinatorics Seminar is held every Monday at 4&ndash;5pm during term time.
