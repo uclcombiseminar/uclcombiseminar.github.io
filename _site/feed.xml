@@ -8,6 +8,73 @@
     
       
       <item>
+        <title>4th December 2024</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/12/04/jared-leon.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/12/04/jared-leon.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>25th November 2024</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/11/25/jun-yan.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/11/25/jun-yan.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>18th November 2024</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/11/18/marius-tiba.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/11/18/marius-tiba.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>11th November 2024</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/11/11/tba.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/11/11/tba.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>28th October 2024</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/10/28/debmalya-bandyopadhyay.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/10/28/debmalya-bandyopadhyay.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>21st October 2024</title>
+        <description>&lt;p&gt;This talk is based on joint work with Iršič and Portier about the maximal number of vertices that can be covered by disjoint long paths in $G(n,p)$ in the supercritical regime $p=(1+\epsilon)/n$. As a key ingredient we determine the number of disjoint paths of a given length that can be packed into a random labelled tree. We will also discuss a related algorithmic problem about revealing paths in hidden random graph by querying as few edges as possible.
+&lt;!--more--&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2024/10/21/leo-versteegen.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2024/10/21/leo-versteegen.html</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>14th October 2024</title>
         <description>&lt;p&gt;It is fairly easy to prove that every finite poset can be viewed as a subposet of $(2^{[N]},\subseteq)$ for sufficiently large $N$. The width of such a subposet is the size of its largest empty subposet. Clearly, sets of equal size in $2^{[N]}$ are incomparable, thus forming an empty subposet. In other words, layers are antichains. We demonstrate how a certain symmetry of the subposet is conducive to showing that its maximal antichain is the largest layer.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -72,120 +139,6 @@ Moreover, we settle the case $k=4$ and greatly narrow the range of $t$ for which
         <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2024/04/29/tamitegama.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2024/04/29/tamitegama.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>22 April 2024</title>
-        <description>&lt;p&gt;The Liouville function $\lambda(n)$ is defined to be +1 if n is a product of an even number of primes, and -1 otherwise. In many ways, the Liouville function is expected to behave like a random sequence of +1’s and -1’s. Instances of this phenomenon are intimately connected with the distribution of primes. For instance, the statement that the partial sums of the Liouville function grow no faster than $x^{1/2+\epsilon}$ is equivalent to the Riemann Hypothesis. The two-point Chowla conjecture predicts that the average of $\lambda(n)\lambda(n+1)$ over $n\leq x$ tends to zero as $x\to \infty$. I will present my work on a logarithmically weighted version of this problem. The proof uses elementary combinatorics to study a graph encoding number-theoretic information.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/04/22/pilatte.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/04/22/pilatte.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>18 March 2024</title>
-        <description>&lt;p&gt;We show that any $d$-regular graph can be approximately decomposed into paths of length almost $d$, giving an approximate solution to a problem of Kotzig from 1957. Along the way, we also show that almost all vertices of a $d$-regular graph can be partitioned into $n/(d+1)$ paths, asymptotically confirming a conjecture of Magnant and Martin from 2009.&lt;/p&gt;
-
-&lt;p&gt;This is joint work with Richard Montgomery, Alexey Pokrovskiy, and Benny Sudakov.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/03/18/muyesser.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/03/18/muyesser.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>11 March 2024</title>
-        <description>&lt;p&gt;One of the first results in extremal graph theory is Turán’s
-theorem, which states that the Turán graph $T(n,r)$ 
-maximizes the number of edges in an $n$-vertex graph that 
-does not contain $K_{r+1}$ as a subgraph. More generally, 
-given two graphs $H$ and $F$, the generalized Turán number 
-$ex(n, H, F)$ is the largest number of copies of $H$ in an 
-$n$-vertex $F$-free graph and such graphs with $ex(n, H, F)$ 
-copies of $H$ are called extremal graphs. 
-For fixed $H$, $F=K_{r+1}$ and $r$ large enough, 
-we recently showed in a joint work with Morrison, Nir, Norine, 
-and Rzążewski, that the extremal graph for the 
-generalized Turán problem is the Turán graph  $T(n,r)$. 
-This talk discusses this result and more broadly, 
-results on generalized Turán numbers.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/03/11/wesolek.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/03/11/wesolek.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>4 March 2024</title>
-        <description>&lt;p&gt;An $n$-vertex graph $G$ is a $C$-expander if 
-$|N(X)|\geq C|X|$ for every $X \subseteq V(G)$ 
-with $|X|&amp;lt; n/2C$ and there is an edge between 
-every two disjoint sets of at least $n/2C$ vertices.
-We show that there is some constant $C&amp;gt;0$ 
-for which every $C$-expander is Hamiltonian. 
-In particular, this implies the well known 
-conjecture of Krivelevich and Sudakov from 2003 
-on Hamilton cycles in $(n,d,\lambda)$-graphs. 
-This completes a long line of research on the 
-Hamiltonicity of sparse graphs, and has many applications.&lt;/p&gt;
-
-&lt;p&gt;Joint work with R. Montgomery, D. Munhá Correia, A. Pokrovskiy and B. Sudakov. 
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/03/04/draganic.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/03/04/draganic.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>26 February 2024</title>
-        <description>&lt;p&gt;A regular $k$-partite tournament is a regular orientation 
-of the balanced complete $k$-partite graph. Kühn and Osthus proved 
-that for all $k \ge 4$ any large enough regular $k$-partite tournament 
-can be decomposed into edge-disjoint Hamilton cycles and conjectured 
-the same to be true for all $k$. 
-Granet proved the conjecture for $k=2$ and, somewhat surprisingly, 
-gave a construction of a non-Hamilton decomposable regular tripartite tournament. 
-Our main result is a proof that an approximate version of the conjecture still holds
-for $k=3$, i.e. that in each such large tournament one may find edge-disjoint 
-Hamilton cycles covering all but $o(n^2)$ edges. We also prove that if $a &amp;gt; 1/3$,
-any balanced regular tripartite digraph with minimum semidegree at least $a*n$ is Hamilton decomposable.&lt;/p&gt;
-
-&lt;p&gt;This is based on joint work with J. Lada, V. Patel, Y. Pehova, J. Skokan.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/02/26/di-braccio.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/02/26/di-braccio.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>19 February 2024</title>
-        <description>&lt;p&gt;The question under which minimum degree conditions a given 
-hypergraph contains a Hamilton cycle has received a lot of attention 
-over the past twenty years. In this talk, I will give an overview of the 
-progress in the area and then present some new results.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/02/19/lang.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/02/19/lang.html</guid>
       </item>
       
     

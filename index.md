@@ -4,7 +4,7 @@ title: UCL Combinatorics Seminar
 
 The University College London (UCL) Combinatorics Seminar is held every Monday at 4&ndash;5pm during term time.
 
-The venue for this week’s seminar is Room C3.11 at <a href="http://www.ucl.ac.uk/maps/ioe" target=_blank>20, Bedford Way</a>.
+The venue for this week’s seminar is Room 706 at <a href="https://www.openstreetmap.org/way/40205767" target=_blank>25, Gordon Street</a>.
 
 To subscribe to the mailing list, please email Luke Collins at luke [dot] collins [dot] 22 [at] ucl [dot] ac [dot] uk.
 

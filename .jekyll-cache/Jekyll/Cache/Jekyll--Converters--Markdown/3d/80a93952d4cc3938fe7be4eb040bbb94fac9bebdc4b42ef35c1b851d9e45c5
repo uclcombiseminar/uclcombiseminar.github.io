@@ -1,6 +1,6 @@
-I"V<p>The University College London (UCL) Combinatorics Seminar is held every Monday at 4–5pm during term time.</p>
+I"�<p>The University College London (UCL) Combinatorics Seminar is held every Monday at 4–5pm during term time.</p>
 
-<p>The venue for this week’s seminar is Room LG16 at <a href="http://www.ucl.ac.uk/maps/ioe" target="_blank">20, Bedford Way</a>.</p>
+<p>The venue for this week’s seminar is Room 706 at <a href="https://www.openstreetmap.org/way/40205767" target="_blank">25, Gordon Street</a>.</p>
 
 <p>To subscribe to the mailing list, please email Luke Collins at luke [dot] collins [dot] 22 [at] ucl [dot] ac [dot] uk.</p>
 
@@ -253,12 +253,16 @@
   
   
     
+    
+  
+  
+    
     <!-- Don't show drafts -->
     <li>
-      <h2>14th October 2024 - <a href="">Kada Williams</a> (University of Cambridge)</h2>
-      <h2>Ball Poset Width</h2>
+      <h2>21st October 2024 - <a href="">Leo Versteegen</a> (London School of Economics)</h2>
+      <h2>Packing paths in sparse graphs</h2>
       <br />
-      <p><p>It is fairly easy to prove that every finite poset can be viewed as a subposet of $(2^{[N]},\subseteq)$ for sufficiently large $N$. The width of such a subposet is the size of its largest empty subposet. Clearly, sets of equal size in $2^{[N]}$ are incomparable, thus forming an empty subposet. In other words, layers are antichains. We demonstrate how a certain symmetry of the subposet is conducive to showing that its maximal antichain is the largest layer.</p>
+      <p><p>This talk is based on joint work with Iršič and Portier about the maximal number of vertices that can be covered by disjoint long paths in $G(n,p)$ in the supercritical regime $p=(1+\epsilon)/n$. As a key ingredient we determine the number of disjoint paths of a given length that can be packed into a random labelled tree. We will also discuss a related algorithmic problem about revealing paths in hidden random graph by querying as few edges as possible.</p>
 </p>
       <br /><br />
     </li>
