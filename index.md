@@ -6,7 +6,7 @@ The University College London (UCL) Combinatorics Seminar is held every Monday a
 
 The venue for this week’s seminar is **Room 739 at the <a href="https://www.openstreetmap.org/way/51517608" target=_blank>Institute of Education</a>**, 20 Bedford Way (note the change in venue from last term).<!--at <a href="https://www.openstreetmap.org/way/40205767" target=_blank>25, Gordon Street</a>.-->
 
-To subscribe to the mailing list, please email Luke Collins at luke [dot] collins [dot] 22 [at] ucl [dot] ac [dot] uk.
+To subscribe to the mailing list, please email Luke Collins on _luke [dot] collins [dot] 22 [at] ucl [dot] ac [dot] uk_.
 
 ---
 
