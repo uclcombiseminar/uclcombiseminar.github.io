@@ -3,7 +3,7 @@ layout: post
 speaker: Thomas Karam
 speaker-url: https://sites.google.com/view/thomas-karam
 speaker-uni: University of Oxford
-title: 10th February 2025
+title: 11th February 2025
 subtitle: Towards an information-theoretic understanding of probabilistic universality
 excerpt_separator: <!--more-->
 ---
