@@ -3,7 +3,7 @@ layout: post
 speaker: Emma Hogan
 speaker-url: https://www.maths.ox.ac.uk/people/emma.hogan
 speaker-uni: University of Oxford
-title: 3rd February, 2025
+title: 3rd February 2025
 subtitle: Colouring graphs and generalised chromatic polynomials
 excerpt_separator: <!--more-->
 ---
