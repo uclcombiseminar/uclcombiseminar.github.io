@@ -7,5 +7,5 @@ title: 28th April 2025
 subtitle:
 excerpt_separator: <!--more-->
 ---
-*Venue*: <a href="https://www.openstreetmap.org/way/15703989" target=_blank>Drayton House, Jevons Lecture Theatre B20</a>.
+**Venue**: <a href="https://www.openstreetmap.org/way/15703989" target=_blank>Drayton House, Jevons Lecture Theatre B20</a>.
 <!--more-->
