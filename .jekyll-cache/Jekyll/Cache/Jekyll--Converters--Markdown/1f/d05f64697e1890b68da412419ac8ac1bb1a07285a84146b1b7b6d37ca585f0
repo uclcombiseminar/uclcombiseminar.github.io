@@ -1,4 +1,0 @@
-I"Ÿ<p>In March 2023, Campos et al proved 
-the first exponential improvement to the upper bound on Ramseyâ€™s theorem in the two-colour case, showing R(k) &lt;= (4 - c)^k for a positive constant c. I will discuss the complete formalisation of this result in the Lean theorem prover, and touch on the verification of related Ramsey theory problems. Knowledge of neither the Campos et al paper nor Lean is required.</p>
-
-:ET

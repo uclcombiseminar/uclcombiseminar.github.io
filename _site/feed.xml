@@ -8,137 +8,135 @@
     
       
       <item>
-        <title>4th December 2024</title>
-        <description>&lt;!--more--&gt;
-</description>
-        <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/12/04/jared-leon.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/12/04/jared-leon.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>25th November 2024</title>
-        <description>&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/11/25/jun-yan.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/11/25/jun-yan.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>18th November 2024</title>
-        <description>&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/11/18/marius-tiba.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/11/18/marius-tiba.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>11th November 2024</title>
-        <description>&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/11/11/tba.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/11/11/tba.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>28th October 2024</title>
-        <description>&lt;!--more--&gt;
-</description>
-        <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/10/28/debmalya-bandyopadhyay.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/10/28/debmalya-bandyopadhyay.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>21st October 2024</title>
-        <description>&lt;p&gt;This talk is based on joint work with Iršič and Portier about the maximal number of vertices that can be covered by disjoint long paths in $G(n,p)$ in the supercritical regime $p=(1+\epsilon)/n$. As a key ingredient we determine the number of disjoint paths of a given length that can be packed into a random labelled tree. We will also discuss a related algorithmic problem about revealing paths in hidden random graph by querying as few edges as possible.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/10/21/leo-versteegen.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/10/21/leo-versteegen.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>14th October 2024</title>
-        <description>&lt;p&gt;It is fairly easy to prove that every finite poset can be viewed as a subposet of $(2^{[N]},\subseteq)$ for sufficiently large $N$. The width of such a subposet is the size of its largest empty subposet. Clearly, sets of equal size in $2^{[N]}$ are incomparable, thus forming an empty subposet. In other words, layers are antichains. We demonstrate how a certain symmetry of the subposet is conducive to showing that its maximal antichain is the largest layer.
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/10/14/kada-williams.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/10/14/kada-williams.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>20 May 2024</title>
-        <description>&lt;p&gt;Given a $k$-uniform hypergraph $H$ and an $r$-colouring of its edges, 
-we look for a minimum $l$-degree condition that guarantees the existence 
-of a perfect matching in $H$ that has significantly more than $n/rk$ edges in one colour. 
-We refer to it as a colour-bias perfect matching.
-For $2$-coloured graphs, a result of Balogh, Csaba, Jing and Pluhár yields the 
-minimum degree threshold that ensures a perfect matching of significant colour-bias. 
-In this talk, I will present an analogous of this result for $k$-uniform hypergraphs. 
-More precisely, for each $2 \le l &amp;lt; k$ and $r \ge 2$ we determined the minimum $l$-degree 
-threshold for forcing a perfect matching of significant colour-bias in an $r$-coloured $k$-uniform hypergraph.&lt;/p&gt;
+        <title>8th December 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;This is joint work with József Balogh and Andrew Treglown.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/05/20/zarate-gueren.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/05/20/zarate-gueren.html</guid>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/12/08/tbc.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/12/08/tbc.html</guid>
       </item>
       
     
       
       <item>
-        <title>13 May 2024</title>
-        <description>&lt;p&gt;Brown-Erdős-Sós initiated the study of the maximum number of edges in an $n$-vertex $r$-graph 
-such that no $k$ edges span at most $s$ vertices. 
-If $s=rk−2k+2$ then this function is quadratic in $n$ and its asymptotic was previously known for 
-$k=2,3,4$. We determine the values of the limit in the Brown-Erdős-Sós problem for $k=5,6,7$ and generalise them to all uniformity.&lt;/p&gt;
+        <title>1st of December</title>
+        <description>&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;This is joint work with Stefan Glock, Jaehoon Kim, Lyuben Lichev and Oleg Pikhurko.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/05/13/sun.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/05/13/sun.html</guid>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/12/01/jane-tan.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/12/01/jane-tan.html</guid>
       </item>
       
     
       
       <item>
-        <title>29 April 2024</title>
-        <description>&lt;p&gt;Let $n, t, k$ be positive integers and say that a family $\mathcal{P}$ of permutations is $(k,t)$-shattering for $[n]=\set{1,\dotsc, n}$ if it induces at least $t$ distinct orders on each $k$-subset of $[n]$.
-In 1971, Spencer constructed $(k,k)$-shattering families of size $O(\log \log n)$ and showed that $(k,k!)$-shattering families have size $\Omega(\log n)$.&lt;/p&gt;
+        <title>24th November 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Füredi then asked in 1996 whether minimal $(k,t)$-shattering families always have sizes in one of three regimes: $O(1)$, $\Theta(\log \log n)$, $\Theta(\log n)$.
-In 2023, Johnson and Wickes settled the case $k=3$ affirmatively and asked whether this could be extended to general $k$.
-In recent joint work with António Girão and Lukas Michel show the existence of a jump between the $\Theta(\log \log n)$ regime and a new $\Theta(\sqrt{\log n})$ regime when $k\geq 4$, thereby answering both the general question of Füredi and the question of Johnson and Wickes negatively.
-Moreover, we settle the case $k=4$ and greatly narrow the range of $t$ for which asymptotic sizes of such families are unknown.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;!--more--&gt;
 </description>
-        <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2024/04/29/tamitegama.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2024/04/29/tamitegama.html</guid>
+        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/11/24/katherine-staden.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/11/24/katherine-staden.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>17th November 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/11/17/noah-kravitz.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/11/17/noah-kravitz.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>10th November 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/11/10/debsoumya-chakraborti.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/11/10/debsoumya-chakraborti.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>27th October 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/10/27/natalie-behague.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/10/27/natalie-behague.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>20th October 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/10/20/tbc.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/10/20/tbc.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>13th October 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/10/13/ryan-martin.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/10/13/ryan-martin.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>6th October 2025</title>
+        <description>&lt;p&gt;In 1980, Akiyama, Exoo, and Harary conjectured that the edges of every graph with maximum degree $\Delta$ can be decomposed into at most $\lceil(\Delta+1)/2\rceil$ linear forests, where a linear forest is a collection of vertex-disjoint paths. This conjecture was confirmed asymptotically by Alon in 1988 who showed that $(1+o(1)) \cdot \Delta/2$ linear forests suffice. The current best bound is due to Lang and Postle who showed that there is a decomposition into at most $\Delta/2 + \mathcal{O}(\sqrt{\Delta} \log^4\Delta)$ linear forests.&lt;/p&gt;
+
+&lt;p&gt;We show that any graph on $n$ vertices can be decomposed into at most $\Delta/2 + \mathcal{O}(\log n)$ linear forests. This improves the previous upper bounds for $\Delta = \Omega(\log^2 n)$. Along the way, we show that any $d$-regular graph on $n$ vertices has a spanning linear forest with at most $2 \cdot n / (d+1)$ paths. This resolves a conjecture of Feige and Fuchs and confirms a well-known conjecture of Magnant and Martin up to a factor of 2.&lt;/p&gt;
+
+&lt;p&gt;This talk is based on joint work with Micha Christoph, Nemanja Draganić, António Girão, Eoin Hurley, and Alp Müyesser.&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/10/06/lukas-michel.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/10/06/lukas-michel.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>29th September 2025</title>
+        <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2025/09/29/antonio-girao.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2025/09/29/antonio-girao.html</guid>
       </item>
       
     

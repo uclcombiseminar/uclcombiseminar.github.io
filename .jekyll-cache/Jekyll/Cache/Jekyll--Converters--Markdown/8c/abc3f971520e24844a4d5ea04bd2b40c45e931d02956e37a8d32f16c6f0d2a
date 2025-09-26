@@ -1,12 +1,0 @@
-I"<p>A Rademacher sum is a finite weighted sum of independent Rademacher random variables, that is $R=a_1\epsilon_1+\dots+a_n\epsilon_n$ 
-where the $a_i$ are real constants and $\epsilon_i$ are picked independently and uniformly at random from ${-1,+1}$. 
-Tomaszewski’s conjecture from 1986 states that every Rademacher sum $R$ of variance 1 satisfies $\mathbb{P}(|R| \leq 1) \geq 1/2$. This problem has attracted significant attention over the years before it was finally settled by Keller and Klein in 2020. 
-Tomaszewski’s counterpart problem is concerned with determining $\inf \mathbb{P}(|R| \geq 1)$, where the infimum is taken over the class of Rademacher sums $R$ of variance 1. This problem has also received much attention over the years, with Hitczenko and Kwapień conjecturing in 1994 that the infimum is $7/32$. In this talk we confirm Hitczenko and Kwapień’s conjecture. In fact, our methods enable us to fully determine $f(y)= \inf \mathbb{P}(|R| \geq y\sqrt{\mathrm{Var}(R)})$ where the infimum is taken over all Rademacher sums $R$, confirming a conjecture by Lowther and giving a partial answer to a question by Keller and Klein.</p>
-
-<p>This is joint work with Lawrence Hollom.</p>
-
-<p><br /></p>
-
-<p>This talk will be in Bedford Way (20) room 104 (Elvin Hall).</p>
-
-:ET

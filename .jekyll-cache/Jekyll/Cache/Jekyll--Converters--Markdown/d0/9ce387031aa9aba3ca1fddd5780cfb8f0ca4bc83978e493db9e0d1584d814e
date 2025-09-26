@@ -1,6 +1,0 @@
-I"<p>Let $p$ be a prime integer, let $1 \le t &lt; d &lt; p$ be integers, and let $S$ be a non-empty subset of $\mathbb{F}_p$ (which may be thought of as being {$0,1$}). We will establish that if a polynomial $P:\mathbb{F}_p^n \to \mathbb{F}_p$ with degree $d$ is such that the image $P(S^n)$ does not contain the full image $A(\mathbb{F}_p)$ of any non-constant polynomial $A: \mathbb{F}_p \to \mathbb{F}_p$ with degree at most $t$, then $P$ coincides on $S^n$ with a polynomial $Q$ that can be decomposed as a sum of a bounded number of polynomials which each have degree at most $d$ and are products of polynomials that have degrees at most $\lfloor d/(t+1) \rfloor$. In particular the polynomial $Q$ has bounded degree-$\lfloor d/(t+1) \rfloor$-rank in the sense of Green and Tao. Likewise, we will prove that if the assumption holds even for $t=d$ then $P$ coincides on $S^n$ with a polynomial with degree at most $d$ and depending only on a bounded number of variables.</p>
-
-<p>This talk will be in 25 Gordon Street, Room 500.</p>
-
-<!--more-->
-:ET

@@ -1,8 +1,0 @@
-I"�<p>Brown-Erdős-Sós initiated the study of the maximum number of edges in an $n$-vertex $r$-graph 
-such that no $k$ edges span at most $s$ vertices. 
-If $s=rk−2k+2$ then this function is quadratic in $n$ and its asymptotic was previously known for 
-$k=2,3,4$. We determine the values of the limit in the Brown-Erdős-Sós problem for $k=5,6,7$ and generalise them to all uniformity.</p>
-
-<p>This is joint work with Stefan Glock, Jaehoon Kim, Lyuben Lichev and Oleg Pikhurko.
-<!--more--></p>
-:ET

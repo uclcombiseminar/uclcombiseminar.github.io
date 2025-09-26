@@ -1,5 +1,0 @@
-I"�<p>We will present a new upper bound of $s_r(K_k) = O(k^5 r^{5/2})$ on the Ramsey parameter $s_r(K_k)$ introduced by Burr, Erd<span>ő</span>s and Lovász in 1976, which is defined as the smallest minimum degree of a graph $G$ such that any $r$-colouring of the edges of $G$ contains a monochromatic $K_k$, whereas no proper subgraph of $G$ has this property. This improves the previous upper bound of $s_r(K_k) = O(k^6 r^3)$ proved by Fox et al. The construction used in our proof relies on a group theoretic model of generalised quadrangles introduced by Kantor in 1980.</p>
-
-<p>This is joint work with John Bamberg and Thomas Lesgourgues.</p>
-
-:ET

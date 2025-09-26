@@ -88,7 +88,7 @@ main {
   @media only screen and (max-width: $mobile) {
     max-width: $mobile-content-width;
   }
-  margin: auto;
+  margin: 0 auto;
   padding: 1rem 0;
   flex: 1 0 auto; // grow to fill available space
 }

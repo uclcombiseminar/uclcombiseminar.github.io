@@ -1,3 +1,0 @@
-I"°<p>Assume that we have a deck of $n$ cards, and we try to shuffle it using random swaps â€“ that is, we perform a sequence of moves in which we swap two cards in given positions with given probabilities. How many such swaps are needed to make sure that the end position of every single card is uniformly distributed? And if we want to make sure that the position of any pair is uniformly distributed? And what happens if we only want to make sure that the two jokers (starting at the top of the deck) can end up in all position-pairs, with uniform probabilities? I will talk about these problems and some related questions. Joint work with Robert Johnson and Imre Leader.
-<!--more--></p>
-:ET

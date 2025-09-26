@@ -1,9 +1,0 @@
-I"<p>In a recent paper from 2020 Joos and Kim showed that every collection of n graphs $G_1,…,G_n$ on a common vertex set $[n]$ with minimum degree at least $n/2$ contains a Hamilton cycle using exactly one edge from each graph. Such a Hamilton cycle is called transversal, or rainbow. This result directly extends Dirac’s theorem, which can be deduced by taking all graphs in the collection to be isomorphic, and kick-started a systematic study of transversal problems in extremal combinatorics. We show that (asymptotically) the same degree condition guarantees not only a single rainbow Hamilton cycle, but in fact every rainbow Hamilton cycle. That is, if all $G_i$ have minimum degree $(1/2+\varepsilon)n$ for some small $\varepsilon$, then there is a Hamilton cycle $C=e_1…e_n$ whose edges $e_i$ are taken in the natural cyclic ordering, such that each $e_i$ is in $E(G_i)$.</p>
-
-<p>This is joint work with Candida Bowtell, Patrick Morris and Katherine Staden.</p>
-
-<p><br /></p>
-
-<p>This talk will be in Bedford Way (20) room 639.</p>
-
-:ET
