@@ -1,11 +1,10 @@
 nav {
   box-sizing: border-box;
   width: 100%;
-  max-width: $nav-width;
+  max-width: none;
   height: 5rem;
-  margin: 0 auto;
+  margin: 0 0 3rem;
   flex: 0 0 auto;
-  margin-bottom: 3rem;
   padding: 0 1.5rem;
   padding-top: 4rem;
   display: flex;
@@ -79,14 +78,18 @@ nav {
 //Mobile nav
 @media only screen and (max-width: $mobile) {
   nav {
-    max-width: 100%;
-    padding: 0;
-    padding-top: 4rem;
+    width: 100%;
+    padding: 1rem;          // give the header some side gutters
+    margin: 0 0 2rem;
+    flex-wrap: wrap;        // allow breaking onto multiple lines
+    align-items: center;
+    position: relative;
 
     #mobile-nav {
       display: inline-block;
       position: absolute;
-      right: 0;
+      top: 1rem;
+      right: 1rem;
       color: $main-accent;
       font-size: 1.75rem;
       padding-right: 1.5rem;
@@ -94,6 +97,10 @@ nav {
     }
 
     .info {
+
+       flex: 1 1 auto;      // let it shrink next to the burger
+       min-width: 0;        // allow text to wrap instead of overflowing
+       align-items: center;
 
       img {
         height: 2.25rem;
