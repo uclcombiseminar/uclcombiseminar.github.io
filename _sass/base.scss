@@ -21,11 +21,18 @@
   clear: both;
 }
 
+html, body {
+  height: 100%;
+}
+
 body {
   font-size: $base-font-size;
   font-family: $body-font;
   line-height: 1.4;
   color: $main-body;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 img, svg {
@@ -83,12 +90,7 @@ main {
   }
   margin: auto;
   padding: 1rem 0;
-  min-height: calc(100vh - 16rem);
-  // This fixed value makes it so the footer
-  // always sticks to the bottom of the screen.
-  // The 16rem comes from [($footer-height * 2) + 2rem]
-  // since main has a 2rem of padding & margin built in.
-  // 100vh = the height of the viewport.
+  flex: 1 0 auto; // grow to fill available space
 }
 
 // gives each paragraph a lil room to breathe
