@@ -12,7 +12,7 @@ title: Upcoming Talks
   {% capture postDate %}
   {{ post.date | date: '%s'}}
   {% endcapture %}
-    {% if currentDate > postDate %}
+    {% if currentDate > postDate or post.hidden %}
     <!-- Don't show drafts -->
     {% else %}
     <li>
