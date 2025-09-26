@@ -7,7 +7,6 @@ title: 6th October 2025
 subtitle: New bounds for linear arboricty and related problems
 excerpt_separator: <!--more-->
 ---
-**Venue**: <a href="https://www.openstreetmap.org/way/40253190" target=_blank>Room 346, 14–16 Taviton Street</a>.
 
 <p>In 1980, Akiyama, Exoo, and Harary conjectured that the edges of every graph with maximum degree $\Delta$ can be decomposed into at most $\lceil(\Delta+1)/2\rceil$ linear forests, where a linear forest is a collection of vertex-disjoint paths. This conjecture was confirmed asymptotically by Alon in 1988 who showed that $(1+o(1)) \cdot \Delta/2$ linear forests suffice. The current best bound is due to Lang and Postle who showed that there is a decomposition into at most $\Delta/2 + \mathcal{O}(\sqrt{\Delta} \log^4\Delta)$ linear forests.</p>
 
