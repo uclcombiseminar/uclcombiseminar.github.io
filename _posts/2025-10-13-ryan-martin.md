@@ -8,7 +8,7 @@ subtitle: (Title TBA)
 excerpt_separator: <!--more-->
 ---
 
-<p></p>
+<p> </p>
 
 
 <!--more-->
