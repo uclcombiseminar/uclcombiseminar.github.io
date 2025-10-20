@@ -13,24 +13,18 @@ To subscribe to the mailing list, please email Luke Collins on _luke [dot] colli
 # Next Speaker
 <br>
 <ul class="post-list">
-{% capture currentDate %}
-  {{ 'now' | date: '%s'}}
-  {% endcapture %}
+  {% assign today_num = 'now' | date: '%Y%m%d' %}
   {% for post in site.posts reversed %}
-  {% capture postDate %}
-  {{ post.date | date: '%s'}}
-  {% endcapture %}
-    {% if currentDate <= postDate %}
-    <!-- Don't show drafts -->
-    <li>
-      <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
-      <h2>{{ post.subtitle }}</h2>
-      <br>
-      <p>{{ post.excerpt }}</p>
-      <br><br>
-    </li>
-    {%break%}
-    {% else %}
+    {% assign post_num = post.date | date: '%Y%m%d' %}
+    {% if post_num >= today_num %}
+      <li>
+        <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
+        <h2>{{ post.subtitle }}</h2>
+        <br>
+        <p>{{ post.excerpt }}</p>
+        <br><br>
+      </li>
+      {% break %}
     {% endif %}
   {% endfor %}
 </ul>
