@@ -20,7 +20,7 @@ To subscribe to the mailing list, please email Luke Collins on _luke [dot] colli
   {% capture postDate %}
   {{ post.date | date: '%s'}}
   {% endcapture %}
-    {% if currentDate < postDate %}
+    {% if currentDate <= postDate %}
     <!-- Don't show drafts -->
     <li>
       <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
