@@ -1,9 +1,9 @@
 ---
 layout: post
 hidden: true
-speaker:
-speaker-url:
-speaker-uni:
+speaker: Dabeen Lee
+speaker-url: https://dabeenl.github.io/
+speaker-uni: Seoul National University
 title: 19th January 2026
 subtitle: (Title TBA)
 excerpt_separator: <!--more-->
