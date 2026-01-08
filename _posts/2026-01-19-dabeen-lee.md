@@ -1,6 +1,5 @@
 ---
 layout: post
-hidden: true
 speaker: Dabeen Lee
 speaker-url: https://dabeenl.github.io/
 speaker-uni: Seoul National University
