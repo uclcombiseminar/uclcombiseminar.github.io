@@ -18,7 +18,7 @@ To subscribe to the mailing list, please email Luke Collins on _luke [dot] colli
     {% assign post_num = post.date | date: '%Y%m%d' %}
     {% if post_num >= today_num %}
       <li>
-        <h2>{{ post.title }} - <a href="{{ post.speaker-url }}">{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
+        <h2>{{ post.title }} - <a href="{{ post.speaker-url }}" target=_blank>{{ post.speaker }}</a> ({{ post.speaker-uni }})</h2>
         <h2>{{ post.subtitle }}</h2>
         <br>
         <p>{{ post.excerpt }}</p>
