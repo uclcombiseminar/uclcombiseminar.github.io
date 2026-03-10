@@ -1,8 +1,8 @@
 ---
 layout: post
-speaker: Richard Montgomery
-speaker-url: https://rhmontgomery.warwick.ac.uk/
-speaker-uni: University of Warwick
+speaker: Arjun Ranganathan
+speaker-url:
+speaker-uni: University College London
 title: 16th March 2026
 subtitle: (Title TBA)
 excerpt_separator: <!--more-->
