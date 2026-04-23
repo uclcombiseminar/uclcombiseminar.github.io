@@ -6,7 +6,7 @@ The University College London (UCL) Combinatorics Seminar is held every Monday a
 
 The venue for seminars this term is **Room 346 at the <a href="https://www.openstreetmap.org/way/40253190" target=_blank>SSEES Bulding</a>**, 14–16 Taviton Street.<!--at <a href="https://www.openstreetmap.org/way/40205767" target=_blank>25, Gordon Street</a>.-->
 
-To subscribe to the mailing list, please email Luke Collins on _luke [dot] collins [dot] 22 [at] ucl [dot] ac [dot] uk_.
+To subscribe to the mailing list, please email Dr Alexey Pokrovskiy on _A [dot] Pokrovskiy [at] ucl [dot] ac [dot] uk_.
 
 ---
 
